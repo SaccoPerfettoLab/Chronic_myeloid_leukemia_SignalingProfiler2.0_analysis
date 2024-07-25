@@ -1,0 +1,628 @@
+gene_name	description	receptor	carnival_activity.res	UNIPROT.res	final_score.res	method.res	discordant.res	mf.res	carnival_activity.sens	UNIPROT.sens	final_score.sens	method.sens	discordant.sens	mf.sens	uniprotswissprot
+ACADM	acyl-CoA dehydrogenase medium chain [Source:HGNC Symbol;Acc:HGNC:89]	NA	-100	P11310	-1.59405	proteoscore	FALSE	other	100	P11310	0.462001	proteoscore;proteoscore	FALSE	other	P11310
+ACD	ACD shelterin complex subunit and telomerase recruitment factor [Source:HGNC Symbol;Acc:HGNC:25070]	NA	-100	Q96AP0	-1.86572	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q96AP0
+ACLY	ATP citrate lyase [Source:HGNC Symbol;Acc:HGNC:115]	NA	-100	P53396	-0.795473	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P53396
+ACSS2	acyl-CoA synthetase short chain family member 2 [Source:HGNC Symbol;Acc:HGNC:15814]	NA	-100	Q9NR19	-0.430412	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NR19
+ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	NA	100	P60709	3.63132	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P60709
+ACTN4	actinin alpha 4 [Source:HGNC Symbol;Acc:HGNC:166]	NA	-100	O43707	-1.83609	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O43707
+ADAM17	ADAM metallopeptidase domain 17 [Source:HGNC Symbol;Acc:HGNC:195]	NA	100	P78536	0.46044	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P78536
+ADD1	adducin 1 [Source:HGNC Symbol;Acc:HGNC:243]	NA	-100	P35611	-0.318097	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P35611
+AHNAK	AHNAK nucleoprotein [Source:HGNC Symbol;Acc:HGNC:347]	NA	-100	Q09666	-7.20844	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q09666
+AKAP13	A-kinase anchoring protein 13 [Source:HGNC Symbol;Acc:HGNC:371]	NA	100	Q12802	3.17988	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q12802
+AKAP9	A-kinase anchoring protein 9 [Source:HGNC Symbol;Acc:HGNC:379]	NA	100	Q99996	1.97611	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q99996
+AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	NA	-100	P31749	1.6521	PhosphoScore	TRUE	kin	100	P31749	NA	CARNIVAL	FALSE	kin	P31749
+ALDH1A2	aldehyde dehydrogenase 1 family member A2 [Source:HGNC Symbol;Acc:HGNC:15472]	NA	-100	O94788	-6.66767	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O94788
+AMFR	autocrine motility factor receptor [Source:HGNC Symbol;Acc:HGNC:463]	y	100	Q9UKV5	0.381895	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UKV5
+ANAPC1	anaphase promoting complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:19988]	NA	-100	Q9H1A4	-3.87717	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9H1A4
+ANGPT1	angiopoietin 1 [Source:HGNC Symbol;Acc:HGNC:484]	NA	100	Q15389	3.11721	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q15389
+ANP32A	acidic nuclear phosphoprotein 32 family member A [Source:HGNC Symbol;Acc:HGNC:13233]	NA	-100	P39687	-6.78101	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P39687
+ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	NA	-100	P04083	-3.80339	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P04083
+AP2M1	adaptor related protein complex 2 subunit mu 1 [Source:HGNC Symbol;Acc:HGNC:564]	NA	-100	Q96CW1	-1.79247	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q96CW1
+APAF1	apoptotic peptidase activating factor 1 [Source:HGNC Symbol;Acc:HGNC:576]	NA	100	O14727	1.40506	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O14727
+APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	NA	100	P25054	0.64621	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P25054
+APC_C	NA	NA	-100	SIGNOR-C150	NA	CARNIVAL	FALSE	complex	NA	NA	NA	NA	NA	NA	NA
+APLP2	amyloid beta precursor like protein 2 [Source:HGNC Symbol;Acc:HGNC:598]	NA	-100	Q06481	-1.69698	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q06481
+AP_2_COMPLEX	NA	NA	-100	SIGNOR-C245	NA	CARNIVAL	FALSE	complex	NA	NA	NA	NA	NA	NA	NA
+ARAF	"A-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:646]"	NA	-100	P10398	-1.7108795	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	P10398
+ARHGAP26	Rho GTPase activating protein 26 [Source:HGNC Symbol;Acc:HGNC:17073]	NA	100	Q9UNA1	2.28346	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UNA1
+ARHGAP35	Rho GTPase activating protein 35 [Source:HGNC Symbol;Acc:HGNC:4591]	NA	-100	Q9NRY4	-2.65068	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NRY4
+ARHGDIA	Rho GDP dissociation inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:678]	NA	100	P52565	0.542638	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P52565
+ARHGEF12	Rho guanine nucleotide exchange factor 12 [Source:HGNC Symbol;Acc:HGNC:14193]	NA	-100	Q9NZN5	-0.653377	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NZN5
+ARHGEF2	Rho/Rac guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:682]	NA	-100	Q92974-2;Q92974	-2.927198333	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q92974
+ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6 [Source:HGNC Symbol;Acc:HGNC:685]	NA	100	Q15052	0.973743	PhosphoScore	FALSE	other	-100	Q15052	-0.878518	proteoscore;proteoscore	FALSE	other	Q15052
+ARID3A	AT-rich interaction domain 3A [Source:HGNC Symbol;Acc:HGNC:3031]	NA	-100	Q99856	-2.56386	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q99856
+ARMC10	armadillo repeat containing 10 [Source:HGNC Symbol;Acc:HGNC:21706]	NA	-100	Q8N2F6	-3.66678	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8N2F6
+ARNT	aryl hydrocarbon receptor nuclear translocator [Source:HGNC Symbol;Acc:HGNC:700]	y	-100	P27540	-0.710946	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P27540
+ARPC1B	actin related protein 2/3 complex subunit 1B [Source:HGNC Symbol;Acc:HGNC:704]	NA	100	O15143	1.08157	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O15143
+ARRB1	arrestin beta 1 [Source:HGNC Symbol;Acc:HGNC:711]	NA	-100	P49407	-1.18197	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P49407
+ARRB2	arrestin beta 2 [Source:HGNC Symbol;Acc:HGNC:712]	NA	100	P32121	2.98613	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P32121
+ATF2	activating transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:784]	NA	-100	P15336	-2.277275	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	P15336
+ATG9A	autophagy related 9A [Source:HGNC Symbol;Acc:HGNC:22408]	NA	-100	Q7Z3C6	-0.923347	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q7Z3C6
+ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	NA	100	Q13315	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	Q13315
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:799]	NA	100	P05023	0.379567	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P05023
+ATP7B	ATPase copper transporting beta [Source:HGNC Symbol;Acc:HGNC:870]	NA	-100	P35670	-1.65081	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P35670
+ATR	ATR serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:882]	NA	-100	Q13535	-2.27395	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q13535
+AURKB	aurora kinase B [Source:HGNC Symbol;Acc:HGNC:11390]	NA	100	Q96GD4	0.077989724	VIPER	FALSE	kin	NA	NA	NA	NA	NA	NA	Q96GD4
+AXIN1	axin 1 [Source:HGNC Symbol;Acc:HGNC:903]	NA	100	O15169	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	O15169
+BAG3	BAG cochaperone 3 [Source:HGNC Symbol;Acc:HGNC:939]	NA	-100	O95817	-2.26373	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O95817
+BAIAP2	BAR/IMD domain containing adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:947]	NA	-100	Q9UQB8	-1.65609	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UQB8
+BAK1	BCL2 antagonist/killer 1 [Source:HGNC Symbol;Acc:HGNC:949]	NA	100	Q16611	2.05648	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q16611
+BCAR1	"BCAR1 scaffold protein, Cas family member [Source:HGNC Symbol;Acc:HGNC:971]"	NA	-100	P56945	-1.95466	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P56945
+BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	NA	100	P10415	5.31703	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P10415
+BCR	BCR activator of RhoGEF and GTPase [Source:HGNC Symbol;Acc:HGNC:1014]	NA	-100	P11274	-4.95175	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P11274
+BID	BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050]	NA	-100	P55957	-5.96235	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P55957
+BIRC2	baculoviral IAP repeat containing 2 [Source:HGNC Symbol;Acc:HGNC:590]	NA	-100	Q13490	-1.50377	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q13490
+BLM	BLM RecQ like helicase [Source:HGNC Symbol;Acc:HGNC:1058]	NA	-100	P54132	-1.68648	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P54132
+BLVRA	biliverdin reductase A [Source:HGNC Symbol;Acc:HGNC:1062]	NA	-100	P53004	-1.53477	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P53004
+BMPR1A	bone morphogenetic protein receptor type 1A [Source:HGNC Symbol;Acc:HGNC:1076]	y	-100	P36894	-0.313731094	VIPER	FALSE	kin	NA	NA	NA	NA	NA	NA	P36894
+BRAF	"B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]"	NA	-100	P15056	-1.31128	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	P15056
+BRIP1	BRCA1 interacting helicase 1 [Source:HGNC Symbol;Acc:HGNC:20473]	NA	100	Q9BX63	0.824508	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9BX63
+BTK	Bruton tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:1133]	NA	100	Q06187	0.656484	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q06187
+BUB1	BUB1 mitotic checkpoint serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1148]	NA	100	O43683	-0.048237034	VIPER	TRUE	kin	NA	NA	NA	NA	NA	NA	O43683
+CAD	"carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase [Source:HGNC Symbol;Acc:HGNC:1424]"	NA	100	P27708	0.49052	proteoscore	FALSE	kin	-100	P27708	-1.85611	PhosphoScore;PhosphoScore	FALSE	kin	P27708
+CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	NA	100	P0DP23	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	P0DP23
+CAMK1	calcium/calmodulin dependent protein kinase I [Source:HGNC Symbol;Acc:HGNC:1459]	NA	100	Q14012	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	Q14012
+CAMKK1	calcium/calmodulin dependent protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:1469]	NA	100	Q8N5S9	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	Q8N5S9
+CAMKK2	calcium/calmodulin dependent protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:1470]	NA	-100	Q96RR4	-2.42351	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q96RR4
+CAPN2	calpain 2 [Source:HGNC Symbol;Acc:HGNC:1479]	NA	-100	P17655	-0.503386	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P17655
+CAPZA1	capping actin protein of muscle Z-line subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:1488]	NA	-100	P52907	-0.285901	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P52907
+CARD11	caspase recruitment domain family member 11 [Source:HGNC Symbol;Acc:HGNC:16393]	NA	-51	Q9BXL7	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9BXL7
+CARD9	caspase recruitment domain family member 9 [Source:HGNC Symbol;Acc:HGNC:16391]	NA	100	Q9H257	0.442933	proteoscore	FALSE	other	-100	Q9H257	NA	CARNIVAL	FALSE	other	Q9H257
+CARM1	coactivator associated arginine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:23393]	NA	-100	Q86X55	-0.381794	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q86X55
+CASP3	caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504]	NA	100	P42574	1.88616	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P42574
+CASP6	caspase 6 [Source:HGNC Symbol;Acc:HGNC:1507]	NA	-100	P55212	-1.46911	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P55212
+CASP7	caspase 7 [Source:HGNC Symbol;Acc:HGNC:1508]	NA	100	P55210	3.75325	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P55210
+CAST	calpastatin [Source:HGNC Symbol;Acc:HGNC:1515]	NA	-100	P20810	-5.42364	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P20810
+CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	NA	-100	P04040	-0.528025	proteoscore	FALSE	other	100	P04040	0.722438	proteoscore;proteoscore	FALSE	other	P04040
+CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	NA	-100	Q03135	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q03135
+CBLB	Cbl proto-oncogene B [Source:HGNC Symbol;Acc:HGNC:1542]	NA	-100	Q13191	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q13191
+CC2D1A	coiled-coil and C2 domain containing 1A [Source:HGNC Symbol;Acc:HGNC:30237]	NA	-100	Q6P1N0	-3.39664	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q6P1N0
+CCAR2	cell cycle and apoptosis regulator 2 [Source:HGNC Symbol;Acc:HGNC:23360]	NA	-100	Q8N163	-0.739239	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8N163
+CCDC50	coiled-coil domain containing 50 [Source:HGNC Symbol;Acc:HGNC:18111]	NA	-100	Q8IVM0	-2.75635	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8IVM0
+CCDC88A	coiled-coil domain containing 88A [Source:HGNC Symbol;Acc:HGNC:25523]	NA	-100	Q3V6T2	-2.0602	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q3V6T2
+CCNT1	cyclin T1 [Source:HGNC Symbol;Acc:HGNC:1599]	NA	-100	O60563	-0.385219	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O60563
+CCNY	cyclin Y [Source:HGNC Symbol;Acc:HGNC:23354]	NA	-100	Q8ND76	-0.837452	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8ND76
+CDC25C	cell division cycle 25C [Source:HGNC Symbol;Acc:HGNC:1727]	NA	100	P30307	1.33624	PhosphoScore	FALSE	phos	NA	NA	NA	NA	NA	NA	P30307
+CDC27	cell division cycle 27 [Source:HGNC Symbol;Acc:HGNC:1728]	NA	-100	P30260	-0.910259	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P30260
+CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	NA	-100	P60953-1;P60953	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	P60953
+CDK3	cyclin dependent kinase 3 [Source:HGNC Symbol;Acc:HGNC:1772]	NA	-100	Q00526	-2.674748798	VIPER	FALSE	kin	NA	NA	NA	NA	NA	NA	Q00526
+CDK9	cyclin dependent kinase 9 [Source:HGNC Symbol;Acc:HGNC:1780]	NA	100	P50750	-0.05795233	VIPER	TRUE	kin	NA	NA	NA	NA	NA	NA	P50750
+CDKN1A	cyclin dependent kinase inhibitor 1A [Source:HGNC Symbol;Acc:HGNC:1784]	NA	100	P38936	0.793689	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P38936
+CDT1	chromatin licensing and DNA replication factor 1 [Source:HGNC Symbol;Acc:HGNC:24576]	NA	-100	Q9H211	-0.36147	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9H211
+CEBPA	CCAAT enhancer binding protein alpha [Source:HGNC Symbol;Acc:HGNC:1833]	NA	-100	P49715	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	P49715
+CEBPB	CCAAT enhancer binding protein beta [Source:HGNC Symbol;Acc:HGNC:1834]	NA	100	P17676	NA	CARNIVAL	FALSE	tf	-100	P17676	NA	CARNIVAL	FALSE	tf	P17676
+CENPU	centromere protein U [Source:HGNC Symbol;Acc:HGNC:21348]	NA	-100	Q71F23	-1.6264	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q71F23
+CEP55	centrosomal protein 55 [Source:HGNC Symbol;Acc:HGNC:1161]	NA	-100	Q53EZ4	-2.768165	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q53EZ4
+CFL1	cofilin 1 [Source:HGNC Symbol;Acc:HGNC:1874]	NA	100	P23528	0.672926	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P23528
+CHD2	chromodomain helicase DNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:1917]	NA	-100	O14647	-0.536645	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O14647
+CHN2	chimerin 2 [Source:HGNC Symbol;Acc:HGNC:1944]	NA	100	P52757	1.29516	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P52757
+CIITA	class II major histocompatibility complex transactivator [Source:HGNC Symbol;Acc:HGNC:7067]	NA	-100	P33076	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	P33076
+CLIP1	CAP-Gly domain containing linker protein 1 [Source:HGNC Symbol;Acc:HGNC:10461]	NA	-100	P30622-2;P30622	-0.630165	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P30622
+CLSPN	claspin [Source:HGNC Symbol;Acc:HGNC:19715]	NA	-100	Q9HAW4	-1.26398	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9HAW4
+CRBN	cereblon [Source:HGNC Symbol;Acc:HGNC:30185]	NA	100	Q96SW2	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q96SW2
+CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	NA	100	P16220-1;P16220	0.593056	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P16220
+CRK	"CRK proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2362]"	NA	-100	P46108	-3.04616	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P46108
+CRKL	"CRK like proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2363]"	NA	100	P46109	-2.83843	proteoscore	TRUE	other	NA	NA	NA	NA	NA	NA	P46109
+CSK	C-terminal Src kinase [Source:HGNC Symbol;Acc:HGNC:2444]	NA	100	P41240	0.94137	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P41240
+CSNK1A1	casein kinase 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2451]	NA	-100	P48729	0.237537	proteoscore	TRUE	kin	100	P48729	NA	CARNIVAL	FALSE	kin	P48729
+CSNK1D	casein kinase 1 delta [Source:HGNC Symbol;Acc:HGNC:2452]	NA	-100	P48730	1.9035060258577048	VIPER	TRUE	kin	NA	NA	NA	NA	NA	NA	P48730
+CSNK2A1	casein kinase 2 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2457]	NA	-100	P68400	-0.201571655	VIPER	FALSE	kin	100	P68400	2.0566164367991164	VIPER;VIPER	FALSE	kin	P68400
+CSNK2B	casein kinase 2 beta [Source:HGNC Symbol;Acc:HGNC:2460]	NA	-100	P67870	-1.12304	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P67870
+CSRP1	cysteine and glycine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:2469]	NA	100	P21291	0.827505	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P21291
+CTNND1	catenin delta 1 [Source:HGNC Symbol;Acc:HGNC:2515]	NA	-100	O60716	-3.325755	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	O60716
+CTTN	cortactin [Source:HGNC Symbol;Acc:HGNC:3338]	NA	-100	Q14247	-5.38627	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14247
+CUL3	cullin 3 [Source:HGNC Symbol;Acc:HGNC:2553]	NA	-100	Q13618	0.170856	proteoscore	TRUE	other	NA	NA	NA	NA	NA	NA	Q13618
+CULLIN4_RBX1_DDB1	NA	NA	100	SIGNOR-C119	NA	CARNIVAL	FALSE	complex	-100	SIGNOR-C119	NA	CARNIVAL	FALSE	complex	NA
+CULLIN_1_RBX1_SKP1	NA	NA	-100	SIGNOR-C529	NA	CARNIVAL	FALSE	complex	NA	NA	NA	NA	NA	NA	NA
+CYCLINE_CDK2	NA	NA	-100	SIGNOR-C16	NA	CARNIVAL	FALSE	complex	NA	NA	NA	NA	NA	NA	NA
+CYLD	CYLD lysine 63 deubiquitinase [Source:HGNC Symbol;Acc:HGNC:2584]	NA	-100	Q9NQC7	-1.80204	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NQC7
+DAB2	DAB adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:2662]	NA	-100	P98082	-2.28028	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P98082
+DAP	death associated protein [Source:HGNC Symbol;Acc:HGNC:2672]	NA	100	P51397	1.89681	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P51397
+DAPP1	dual adaptor of phosphotyrosine and 3-phosphoinositides 1 [Source:HGNC Symbol;Acc:HGNC:16500]	NA	100	Q9UN19	4.5425	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UN19
+DAXX	death domain associated protein [Source:HGNC Symbol;Acc:HGNC:2681]	NA	-100	Q9UER7	-2.54564	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9UER7
+DCK	deoxycytidine kinase [Source:HGNC Symbol;Acc:HGNC:2704]	NA	-100	P27707	-3.10448	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	P27707
+DDX3X	DEAD-box helicase 3 X-linked [Source:HGNC Symbol;Acc:HGNC:2745]	NA	100	O00571	0.607049	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O00571
+DDX5	DEAD-box helicase 5 [Source:HGNC Symbol;Acc:HGNC:2746]	NA	100	P17844	0.311144	proteoscore	FALSE	other	-100	P17844	-0.987941	proteoscore;proteoscore	FALSE	other	P17844
+DES	desmin [Source:HGNC Symbol;Acc:HGNC:2770]	NA	-100	P17661	-1.07832	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P17661
+DHODH	dihydroorotate dehydrogenase (quinone) [Source:HGNC Symbol;Acc:HGNC:2867]	NA	100	Q02127	0.996055	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q02127
+DHX9	DExH-box helicase 9 [Source:HGNC Symbol;Acc:HGNC:2750]	NA	-100	Q08211	-1.20353	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q08211
+DLK1	delta like non-canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:2907]	NA	-100	P80370	-1.93002	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P80370
+DNAJB1	DnaJ heat shock protein family (Hsp40) member B1 [Source:HGNC Symbol;Acc:HGNC:5270]	NA	-100	P25685	-0.951614	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P25685
+DNM1	dynamin 1 [Source:HGNC Symbol;Acc:HGNC:2972]	NA	-100	Q05193	-1.43731	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q05193
+DNM2	dynamin 2 [Source:HGNC Symbol;Acc:HGNC:2974]	NA	100	P50570	-0.74043	proteoscore	TRUE	other	NA	NA	NA	NA	NA	NA	P50570
+DNMT1	DNA methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2976]	NA	100	P26358-2;P26358	0.887995	proteoscore	FALSE	other	-100	P26358-2;P26358	-0.861197	proteoscore;proteoscore	FALSE	other	P26358
+DNMT3A	DNA methyltransferase 3 alpha [Source:HGNC Symbol;Acc:HGNC:2978]	NA	100	Q9Y6K1	3.39343	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9Y6K1
+DOCK7	dedicator of cytokinesis 7 [Source:HGNC Symbol;Acc:HGNC:19190]	NA	-100	Q96N67	-2.57724	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q96N67
+DOK1	docking protein 1 [Source:HGNC Symbol;Acc:HGNC:2990]	NA	100	Q99704	1.03055	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q99704
+DPYSL2	dihydropyrimidinase like 2 [Source:HGNC Symbol;Acc:HGNC:3014]	NA	100	Q16555;NP_001184222	3.32009	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q16555
+DVL2	dishevelled segment polarity protein 2 [Source:HGNC Symbol;Acc:HGNC:3086]	NA	100	O14641	0.580107	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O14641
+DYNC1I2	dynein cytoplasmic 1 intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2964]	NA	-100	Q13409	-0.416203	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13409
+DYNC1LI1	dynein cytoplasmic 1 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:18745]	NA	-100	Q9Y6G9	-0.541965	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9Y6G9
+DYNLL1	dynein light chain LC8-type 1 [Source:HGNC Symbol;Acc:HGNC:15476]	NA	-100	P63167	-0.728901	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P63167
+DYRK1B	dual specificity tyrosine phosphorylation regulated kinase 1B [Source:HGNC Symbol;Acc:HGNC:3092]	NA	-100	Q9Y463	-2.39909	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9Y463
+E2F1	E2F transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3113]	NA	-100	Q01094	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	Q01094
+E4F1	E4F transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3121]	NA	-100	Q66K89	-1.4494	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q66K89
+EEF1A2	eukaryotic translation elongation factor 1 alpha 2 [Source:HGNC Symbol;Acc:HGNC:3192]	NA	-100	Q05639	-2.1157	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q05639
+EEF2K	eukaryotic elongation factor 2 kinase [Source:HGNC Symbol;Acc:HGNC:24615]	NA	100	O00418	5.29315	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	O00418
+EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	y	100	P00533	NA	CARNIVAL	FALSE	kin	-100	P00533	-1.897131422	VIPER;VIPER	FALSE	kin	P00533
+EGLN1	egl-9 family hypoxia inducible factor 1 [Source:HGNC Symbol;Acc:HGNC:1232]	NA	-100	Q9GZT9	-3.57441	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9GZT9
+EIF2AK2	eukaryotic translation initiation factor 2 alpha kinase 2 [Source:HGNC Symbol;Acc:HGNC:9437]	NA	-100	P19525	-3.04509	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P19525
+EIF2S1	eukaryotic translation initiation factor 2 subunit alpha [Source:HGNC Symbol;Acc:HGNC:3265]	NA	100	P05198	0.285962	proteoscore	FALSE	other	-100	P05198	-0.282583	proteoscore;proteoscore	FALSE	other	P05198
+EIF2S2	eukaryotic translation initiation factor 2 subunit beta [Source:HGNC Symbol;Acc:HGNC:3266]	NA	-100	P20042	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	P20042
+EIF3F	eukaryotic translation initiation factor 3 subunit F [Source:HGNC Symbol;Acc:HGNC:3275]	NA	100	O00303	0.472039	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O00303
+EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3288]	NA	100	Q13541	3.32188	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13541
+EIF4G2	eukaryotic translation initiation factor 4 gamma 2 [Source:HGNC Symbol;Acc:HGNC:3297]	NA	-100	P78344	-0.277452	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P78344
+ENAH	ENAH actin regulator [Source:HGNC Symbol;Acc:HGNC:18271]	NA	100	Q8N8S7	2.73471	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8N8S7
+ENO1	enolase 1 [Source:HGNC Symbol;Acc:HGNC:3350]	NA	-100	P06733	-1.00957	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P06733
+EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	NA	100	Q09472	0.485765	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q09472
+EPB41	erythrocyte membrane protein band 4.1 [Source:HGNC Symbol;Acc:HGNC:3377]	NA	-100	P11171	-1.25374	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P11171
+EPN1	epsin 1 [Source:HGNC Symbol;Acc:HGNC:21604]	NA	-100	Q9Y6I3	-2.10492	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9Y6I3
+ERCC6L	"ERCC excision repair 6 like, spindle assembly checkpoint helicase [Source:HGNC Symbol;Acc:HGNC:20794]"	NA	100	Q2NKX8	0.523666	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q2NKX8
+ESPL1	"extra spindle pole bodies like 1, separase [Source:HGNC Symbol;Acc:HGNC:16856]"	NA	100	Q14674	1.36289	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14674
+ETV6	ETS variant transcription factor 6 [Source:HGNC Symbol;Acc:HGNC:3495]	NA	100	P41212	1.79061	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P41212
+EWSR1	EWS RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3508]	NA	-100	Q01844	-0.238336	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q01844
+EXOSC9	exosome component 9 [Source:HGNC Symbol;Acc:HGNC:9137]	NA	-100	Q06265	-0.642214	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q06265
+EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	NA	100	P15311	-0.7927	proteoscore	TRUE	other	NA	NA	NA	NA	NA	NA	P15311
+FADD	Fas associated via death domain [Source:HGNC Symbol;Acc:HGNC:3573]	NA	100	Q13158	0.877587	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13158
+FBXW7	F-box and WD repeat domain containing 7 [Source:HGNC Symbol;Acc:HGNC:16712]	NA	-100	Q969H0	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q969H0
+FBXW8	F-box and WD repeat domain containing 8 [Source:HGNC Symbol;Acc:HGNC:13597]	NA	-100	Q8N3Y1	-0.977168	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8N3Y1
+FCGR2A	Fc gamma receptor IIa [Source:HGNC Symbol;Acc:HGNC:3616]	y	-100	P12318	-4.84719	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P12318
+FER	FER tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3655]	NA	-100	P16591	-1.89038	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P16591
+FES	"FES proto-oncogene, tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3657]"	NA	100	P07332	2.42517	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P07332
+FH	fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700]	NA	-100	P07954	-1.20774	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P07954
+FHOD1	formin homology 2 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:17905]	NA	-100	Q9Y613	-1.8913	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9Y613
+FKBP4	FKBP prolyl isomerase 4 [Source:HGNC Symbol;Acc:HGNC:3720]	NA	100	Q02790	0.969894	proteoscore	FALSE	other	-100	Q02790	-0.369676	proteoscore;proteoscore	FALSE	other	Q02790
+FKBP8	FKBP prolyl isomerase 8 [Source:HGNC Symbol;Acc:HGNC:3724]	NA	100	Q14318	0.619272	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14318
+FLCN	folliculin [Source:HGNC Symbol;Acc:HGNC:27310]	NA	100	Q8NFG4	4.462820000000001	PhosphoScore	FALSE	other	-100	Q8NFG4	-1.66033	PhosphoScore;PhosphoScore	FALSE	other	Q8NFG4
+FLI1	"Fli-1 proto-oncogene, ETS transcription factor [Source:HGNC Symbol;Acc:HGNC:3749]"	NA	100	Q01543	3.32472	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q01543
+FLNA	filamin A [Source:HGNC Symbol;Acc:HGNC:3754]	NA	-100	P21333	-0.75278	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P21333
+FLT3	fms related receptor tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	y	100	P36888	4.50212	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P36888
+FNIP1	folliculin interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:29418]	NA	-100	Q8TF40	-0.699178	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8TF40
+FOXN3	forkhead box N3 [Source:HGNC Symbol;Acc:HGNC:1928]	NA	100	O00409	2.71846	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	O00409
+FUS	FUS RNA binding protein [Source:HGNC Symbol;Acc:HGNC:4010]	NA	-100	P35637	-0.452465	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P35637
+G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	NA	-100	P11413-3;P11413	-1.74898	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P11413
+GAB1	GRB2 associated binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4066]	NA	100	Q13480	0.916278	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13480
+GAB2	GRB2 associated binding protein 2 [Source:HGNC Symbol;Acc:HGNC:14458]	NA	-100	Q9UQC2	-1.90556	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UQC2
+GABARAP	GABA type A receptor-associated protein [Source:HGNC Symbol;Acc:HGNC:4067]		100	O95166	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	O95166
+GAMMA_SECRETASE	NA	NA	100	SIGNOR-C98	NA	CARNIVAL	FALSE	complex	NA	NA	NA	NA	NA	NA	NA
+GATA1	GATA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4170]	NA	-100	P15976	-5.76435	proteoscore	FALSE	tf	100	P15976	NA	CARNIVAL	FALSE	tf	P15976
+GATA2	GATA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4171]	NA	100	P23769	1.39184	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P23769
+GEM	GTP binding protein overexpressed in skeletal muscle [Source:HGNC Symbol;Acc:HGNC:4234]	NA	100	P55040	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	P55040
+GIT1	GIT ArfGAP 1 [Source:HGNC Symbol;Acc:HGNC:4272]	NA	100	Q9Y2X7	0.771727	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9Y2X7
+GLI3	GLI family zinc finger 3 [Source:HGNC Symbol;Acc:HGNC:4319]	NA	-100	P10071	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	P10071
+GLS	glutaminase [Source:HGNC Symbol;Acc:HGNC:4331]	NA	100	O94925-3;O94925	0.942182	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O94925
+GNA13	G protein subunit alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	NA	-100	Q14344	-0.282695	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14344
+GNAQ	G protein subunit alpha q [Source:HGNC Symbol;Acc:HGNC:4390]	NA	-100	P50148	-3.81197	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P50148
+GORASP1	golgi reassembly stacking protein 1 [Source:HGNC Symbol;Acc:HGNC:16769]	NA	-100	Q9BQQ3	-0.721263	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9BQQ3
+GORASP2	golgi reassembly stacking protein 2 [Source:HGNC Symbol;Acc:HGNC:17500]	NA	-100	Q9H8Y8	-1.23579	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9H8Y8
+GP1BB	glycoprotein Ib platelet subunit beta [Source:HGNC Symbol;Acc:HGNC:4440]	NA	-100	P13224	-4.40513	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P13224
+GPHN	gephyrin [Source:HGNC Symbol;Acc:HGNC:15465]	NA	100	Q9NQX3	1.99276	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NQX3
+GRAP	GRB2 related adaptor protein [Source:HGNC Symbol;Acc:HGNC:4562]	NA	100	Q13588	1.57078	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13588
+GRB10	growth factor receptor bound protein 10 [Source:HGNC Symbol;Acc:HGNC:4564]		100	Q13322	2.17353	PhosphoScore	FALSE	other	-100	Q13322	NA	CARNIVAL	FALSE	other	Q13322
+GRB7	growth factor receptor bound protein 7 [Source:HGNC Symbol;Acc:HGNC:4567]		100	Q14451	1.40201	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14451
+GRK2	G protein-coupled receptor kinase 2 [Source:HGNC Symbol;Acc:HGNC:289]	y	100	P25098	-0.103779509	VIPER	TRUE	kin	NA	NA	NA	NA	NA	NA	P25098
+GSN	gelsolin [Source:HGNC Symbol;Acc:HGNC:4620]	NA	100	P06396-3;P06396	0.904641	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P06396
+GSTP1	glutathione S-transferase pi 1 [Source:HGNC Symbol;Acc:HGNC:4638]	NA	-100	P09211	-2.59483	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P09211
+GTF2I	general transcription factor IIi [Source:HGNC Symbol;Acc:HGNC:4659]	NA	-100	P78347	-0.845754	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P78347
+HAT1	histone acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4821]	NA	-100	O14929	-1.17671	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O14929
+HDAC1	histone deacetylase 1 [Source:HGNC Symbol;Acc:HGNC:4852]	NA	-100	Q13547	-3.36136	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q13547
+HDAC2	histone deacetylase 2 [Source:HGNC Symbol;Acc:HGNC:4853]	NA	100	Q92769	1.5443	PhosphoScore	FALSE	other	-100	Q92769	-1.51756	PhosphoScore;PhosphoScore	FALSE	other	Q92769
+HDAC3	histone deacetylase 3 [Source:HGNC Symbol;Acc:HGNC:4854]	NA	100	O15379	1.75796	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	O15379
+HDAC6	histone deacetylase 6 [Source:HGNC Symbol;Acc:HGNC:14064]	NA	-100	Q9UBN7	-4.961	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UBN7
+HDAC7	histone deacetylase 7 [Source:HGNC Symbol;Acc:HGNC:14067]	NA	-100	Q8WUI4	-2.38469	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q8WUI4
+HIRA	histone cell cycle regulator [Source:HGNC Symbol;Acc:HGNC:4916]	NA	-100	P54198	-1.18578	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P54198
+HK2	hexokinase 2 [Source:HGNC Symbol;Acc:HGNC:4923]	NA	100	P52789	1.25346	proteoscore	FALSE	kin	-100	P52789	-1.25086	proteoscore;proteoscore	FALSE	kin	P52789
+HMGA1	high mobility group AT-hook 1 [Source:HGNC Symbol;Acc:HGNC:5010]	NA	-100	P17096	-2.10079	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P17096
+HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]	NA	100	P52926	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	P52926
+HNRNPA1	heterogeneous nuclear ribonucleoprotein A1 [Source:HGNC Symbol;Acc:HGNC:5031]	NA	-100	P09651	-0.718949	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P09651
+HSD17B10	hydroxysteroid 17-beta dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:4800]	NA	-100	Q99714	-0.517551	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q99714
+HSF1	heat shock transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5224]	NA	100	Q00613	5.697635	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q00613
+HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	NA	100	P0DMV8	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	P0DMV8
+HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	NA	-100	P11142	0.387861	proteoscore	TRUE	other	NA	NA	NA	NA	NA	NA	P11142
+HSPA9	heat shock protein family A (Hsp70) member 9 [Source:HGNC Symbol;Acc:HGNC:5244]	NA	-100	P38646	-1.33314	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P38646
+HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	NA	-100	P04792	-10.3278	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P04792
+ID2	inhibitor of DNA binding 2 [Source:HGNC Symbol;Acc:HGNC:5361]	NA	-100	Q02363	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q02363
+IDH1	isocitrate dehydrogenase (NADP(+)) 1 [Source:HGNC Symbol;Acc:HGNC:5382]	NA	-100	O75874	-3.81461	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O75874
+IDH2	isocitrate dehydrogenase (NADP(+)) 2 [Source:HGNC Symbol;Acc:HGNC:5383]	NA	-100	P48735	-0.500991	proteoscore	FALSE	other	100	P48735	0.595603	proteoscore;proteoscore	FALSE	other	P48735
+IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	NA	100	O14920	0.005353795	VIPER	FALSE	kin	-100	O14920	NA	CARNIVAL	FALSE	kin	O14920
+IL16	interleukin 16 [Source:HGNC Symbol;Acc:HGNC:5980]	NA	100	Q14005	2.349	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14005
+ILF3	interleukin enhancer binding factor 3 [Source:HGNC Symbol;Acc:HGNC:6038]	NA	-100	Q12906	-1.98373	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q12906
+ILK	integrin linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	NA	100	Q13418	1.44735	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q13418
+IMPDH1	inosine monophosphate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6052]	NA	100	P20839	0.320433	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P20839
+IMPDH2	inosine monophosphate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6053]	NA	100	P12268	0.806258	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P12268
+INSR	insulin receptor [Source:HGNC Symbol;Acc:HGNC:6091]	y	-100	P06213-2;P06213	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	P06213
+IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	NA	-100	P46940	-0.827067	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P46940
+IRAK1	interleukin 1 receptor associated kinase 1 [Source:HGNC Symbol;Acc:HGNC:6112]		-100	P51617	-1.75587	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P51617
+IRAK3	interleukin 1 receptor associated kinase 3 [Source:HGNC Symbol;Acc:HGNC:17020]		100	Q9Y616	2.88344	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9Y616
+IRAK4	interleukin 1 receptor associated kinase 4 [Source:HGNC Symbol;Acc:HGNC:17967]		-100	Q9NWZ3	-0.843935	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9NWZ3
+IRF3	interferon regulatory factor 3 [Source:HGNC Symbol;Acc:HGNC:6118]	NA	-100	Q14653	-3.5889	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q14653
+IRF5	interferon regulatory factor 5 [Source:HGNC Symbol;Acc:HGNC:6120]	NA	100	Q13568	1.76746	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q13568
+ITGAL	integrin subunit alpha L [Source:HGNC Symbol;Acc:HGNC:6148]	NA	100	P20701	2.86083	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P20701
+ITGB2	integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	NA	100	P05107	5.86954	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P05107
+ITGB3	integrin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6156]	NA	100	P05106	2.71505	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P05106
+JAK1	Janus kinase 1 [Source:HGNC Symbol;Acc:HGNC:6190]	NA	100	P23458	1.34681	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P23458
+JUN	"Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]"	NA	0	P05412	-1.272426	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	P05412
+JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	NA	-100	P14923	-2.1966	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P14923
+KAT5	lysine acetyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:5275]	NA	100	Q92993	NA	CARNIVAL	FALSE	tf	-100	Q92993	NA	CARNIVAL	FALSE	tf	Q92993
+KAT7	lysine acetyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:17016]	NA	100	O95251	0.553504	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O95251
+KAT8	lysine acetyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:17933]	NA	-100	Q9H7Z6	-0.790693	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9H7Z6
+KCNH2	potassium voltage-gated channel subfamily H member 2 [Source:HGNC Symbol;Acc:HGNC:6251]	NA	-100	Q12809;Q12809_VAR_014388	-1.97933	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q12809
+KDM1A	lysine demethylase 1A [Source:HGNC Symbol;Acc:HGNC:29079]	NA	-100	O60341	-0.435994	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O60341
+KDM3B	lysine demethylase 3B [Source:HGNC Symbol;Acc:HGNC:1337]	NA	-100	Q7LBC6	-0.719067	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q7LBC6
+KDM6A	lysine demethylase 6A [Source:HGNC Symbol;Acc:HGNC:12637]	NA	-100	O15550	-1.01451	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O15550
+KEAP1	kelch like ECH associated protein 1 [Source:HGNC Symbol;Acc:HGNC:23177]	NA	-100	Q14145	-0.623172	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14145
+KHDRBS1	"KH RNA binding domain containing, signal transduction associated 1 [Source:HGNC Symbol;Acc:HGNC:18116]"	NA	-100	Q07666	-0.793532	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q07666
+KIDINS220	kinase D interacting substrate 220 [Source:HGNC Symbol;Acc:HGNC:29508]	NA	-100	Q9ULH0	-1.84247	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9ULH0
+KIF13B	kinesin family member 13B [Source:HGNC Symbol;Acc:HGNC:14405]	NA	100	Q9NQT8	0.489696	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NQT8
+KIF2C	kinesin family member 2C [Source:HGNC Symbol;Acc:HGNC:6393]	NA	-100	Q99661	-0.20438	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q99661
+KLC1	kinesin light chain 1 [Source:HGNC Symbol;Acc:HGNC:6387]	NA	-100	Q07866	-0.862778	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q07866
+KMT2A	lysine methyltransferase 2A [Source:HGNC Symbol;Acc:HGNC:7132]	NA	-100	Q03164	-1.45259	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q03164
+KMT2D	lysine methyltransferase 2D [Source:HGNC Symbol;Acc:HGNC:7133]	NA	-100	O14686-3;O14686	-3.35299	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O14686
+KPNA2	karyopherin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6395]	NA	-100	P52292	-0.261091	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P52292
+KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	NA	-100	P05787	-8.10693	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P05787
+KSR1	kinase suppressor of ras 1 [Source:HGNC Symbol;Acc:HGNC:6465]	NA	100	Q8IVT5	0.550418	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q8IVT5
+LAMTOR1	"late endosomal/lysosomal adaptor, MAPK and MTOR activator 1 [Source:HGNC Symbol;Acc:HGNC:26068]"	NA	-100	Q6IAA8	-1.07798	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q6IAA8
+LARP6	"La ribonucleoprotein 6, translational regulator [Source:HGNC Symbol;Acc:HGNC:24012]"	NA	-100	Q9BRS8	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q9BRS8
+LARP7	"La ribonucleoprotein 7, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:24912]"	NA	-100	Q4G0J3	-0.225278	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q4G0J3
+LASP1	LIM and SH3 protein 1 [Source:HGNC Symbol;Acc:HGNC:6513]	NA	-100	Q14847	-2.30268	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14847
+LATS2	large tumor suppressor kinase 2 [Source:HGNC Symbol;Acc:HGNC:6515]	NA	-100	Q9NRM7	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9NRM7
+LDB1	LIM domain binding 1 [Source:HGNC Symbol;Acc:HGNC:6532]	NA	-100	Q86U70	-0.576825	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q86U70
+LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	NA	-100	P07195	-7.88612	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P07195
+LIMA1	LIM domain and actin binding 1 [Source:HGNC Symbol;Acc:HGNC:24636]	NA	-100	Q9UHB6	-1.04353	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UHB6
+LIMK2	LIM domain kinase 2 [Source:HGNC Symbol;Acc:HGNC:6614]	NA	100	P53671	0.9076652405194556	VIPER	FALSE	kin	NA	NA	NA	NA	NA	NA	P53671
+LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	NA	-100	P02545	-1.886263333	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P02545
+LMTK2	lemur tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:17880]	NA	-100	Q8IWU2	-0.992498	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q8IWU2
+LPIN1	lipin 1 [Source:HGNC Symbol;Acc:HGNC:13345]	NA	-100	Q14693	-1.33268	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q14693
+LRP6	LDL receptor related protein 6 [Source:HGNC Symbol;Acc:HGNC:6698]		100	O75581	1.16514	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O75581
+LRRK1	leucine rich repeat kinase 1 [Source:HGNC Symbol;Acc:HGNC:18608]	NA	100	Q38SD2	-0.502751	proteoscore	TRUE	kin	NA	NA	NA	NA	NA	NA	Q38SD2
+LRRK2	leucine rich repeat kinase 2 [Source:HGNC Symbol;Acc:HGNC:18618]	NA	-100	Q5S007	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	Q5S007
+LYN	"LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]"	NA	-100	P07948	0.537362	proteoscore	TRUE	kin	NA	NA	NA	NA	NA	NA	P07948
+LZTR1	leucine zipper like post translational regulator 1 [Source:HGNC Symbol;Acc:HGNC:6742]	NA	-100	Q8N653	-0.903682	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8N653
+MAD2L1	mitotic arrest deficient 2 like 1 [Source:HGNC Symbol;Acc:HGNC:6763]	NA	100	Q13257	0.461287	proteoscore	FALSE	other	-100	Q13257	-0.809297	proteoscore;proteoscore	FALSE	other	Q13257
+MAFG	MAF bZIP transcription factor G [Source:HGNC Symbol;Acc:HGNC:6781]	NA	-100	O15525	-1.53094	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O15525
+MAGEA3	MAGE family member A3 [Source:HGNC Symbol;Acc:HGNC:6801]	NA	-100	P43357	-3.3241	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P43357
+MAP2K4	mitogen-activated protein kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6844]	NA	100	P45985	1.79308	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P45985
+MAP2K7	mitogen-activated protein kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6847]	NA	-100	O14733	-0.791029	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	O14733
+MAP4K1	mitogen-activated protein kinase kinase kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6863]	NA	100	Q92918	1.92979	proteoscore	FALSE	kin	-100	Q92918	NA	CARNIVAL	FALSE	kin	Q92918
+MAPK12	mitogen-activated protein kinase 12 [Source:HGNC Symbol;Acc:HGNC:6874]	NA	100	P53778	8.116857655087562	VIPER	FALSE	kin	NA	NA	NA	NA	NA	NA	P53778
+MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	NA	100	Q16539	-2.0077	PhosphoScore	TRUE	kin	NA	NA	NA	NA	NA	NA	Q16539
+MAPK6	mitogen-activated protein kinase 6 [Source:HGNC Symbol;Acc:HGNC:6879]	NA	-100	Q16659	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	Q16659
+MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	NA	100	P45983	-0.098779859	VIPER	TRUE	kin	NA	NA	NA	NA	NA	NA	P45983
+MAPK9	mitogen-activated protein kinase 9 [Source:HGNC Symbol;Acc:HGNC:6886]	NA	-100	P45984-2;P45984	NA	CARNIVAL	FALSE	kin	100	P45984-2;P45984	NA	CARNIVAL	FALSE	kin	P45984
+MAPKAPK2	MAPK activated protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:6887]	NA	100	P49137	0.414779	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P49137
+MAPKAPK5	MAPK activated protein kinase 5 [Source:HGNC Symbol;Acc:HGNC:6889]	NA	-100	Q8IW41	-2.22679	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q8IW41
+MARK2	microtubule affinity regulating kinase 2 [Source:HGNC Symbol;Acc:HGNC:3332]	NA	100	Q7KZI7	0.37536131531363287	VIPER+PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q7KZI7
+MARK3	microtubule affinity regulating kinase 3 [Source:HGNC Symbol;Acc:HGNC:6897]	NA	100	P27448-3;P27448	0.693925	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	P27448
+MAVS	mitochondrial antiviral signaling protein [Source:HGNC Symbol;Acc:HGNC:29233]	NA	-100	Q7Z434	-4.44551	proteoscore	FALSE	other	100	Q7Z434	0.434647	proteoscore;proteoscore	FALSE	other	Q7Z434
+MAZ	MYC associated zinc finger protein [Source:HGNC Symbol;Acc:HGNC:6914]	NA	-100	P56270	-0.421685	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P56270
+MCM2	minichromosome maintenance complex component 2 [Source:HGNC Symbol;Acc:HGNC:6944]	NA	-100	P49736	-5.54965425	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P49736
+MDC1	mediator of DNA damage checkpoint 1 [Source:HGNC Symbol;Acc:HGNC:21163]	NA	-100	Q14676	-2.63414	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14676
+MECP2	methyl-CpG binding protein 2 [Source:HGNC Symbol;Acc:HGNC:6990]	NA	-100	P51608	-1.17562	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P51608
+MED1	mediator complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:9234]	NA	100	Q15648	0.22063	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q15648
+MED12	mediator complex subunit 12 [Source:HGNC Symbol;Acc:HGNC:11957]	NA	100	Q93074	1.51603	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q93074
+MED13L	mediator complex subunit 13L [Source:HGNC Symbol;Acc:HGNC:22962]	NA	100	Q71F56	1.08624	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q71F56
+MEF2C	myocyte enhancer factor 2C [Source:HGNC Symbol;Acc:HGNC:6996]	NA	-100	Q06413-3;Q06413	-2.48731	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q06413
+MET	"MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]"	y	-100	P08581	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	P08581
+MFN1	mitofusin 1 [Source:HGNC Symbol;Acc:HGNC:18262]	NA	100	Q8IWA4	0.539045	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8IWA4
+MFN2	mitofusin 2 [Source:HGNC Symbol;Acc:HGNC:16877]	NA	-100	O95140	-1.6754	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O95140
+MITF	melanocyte inducing transcription factor [Source:HGNC Symbol;Acc:HGNC:7105]	NA	-100	O75030-9;O75030	-1.35527	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	O75030
+MPRIP	myosin phosphatase Rho interacting protein [Source:HGNC Symbol;Acc:HGNC:30321]	NA	-100	Q6WCQ1	-1.44665	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q6WCQ1
+MSN	moesin [Source:HGNC Symbol;Acc:HGNC:7373]	NA	-100	P26038	-0.660448	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P26038
+MSX2	msh homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7392]	NA	-55	P35548	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	P35548
+MTOR	mechanistic target of rapamycin kinase [Source:HGNC Symbol;Acc:HGNC:3942]	NA	-100	P42345	-0.795784297	VIPER+PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	P42345
+MTORC2	NA	NA	-100	SIGNOR-C2	NA	CARNIVAL	FALSE	complex	NA	NA	NA	NA	NA	NA	NA
+MTSS1	MTSS I-BAR domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20443]	NA	100	O43312	2.01402	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O43312
+MUC1	"mucin 1, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7508]"	NA	-100	P15941	-1.55512	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P15941
+MYBBP1A	MYB binding protein 1a [Source:HGNC Symbol;Acc:HGNC:7546]	NA	100	Q9BQG0	2.0883	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9BQG0
+MYC	"MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]"	NA	100	P01106	3.23574	PhosphoScore	FALSE	tf	-100	P01106	-1.97509	PhosphoScore;PhosphoScore	FALSE	tf	P01106
+MYCBP2	MYC binding protein 2 [Source:HGNC Symbol;Acc:HGNC:23386]	NA	100	O75592	0.862595	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O75592
+MYL12A	myosin light chain 12A [Source:HGNC Symbol;Acc:HGNC:16701]	NA	100	P19105	1.937934	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P19105
+MYL6B	myosin light chain 6B [Source:HGNC Symbol;Acc:HGNC:29823]	NA	100	P14649	0.629202	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P14649
+MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	NA	100	Q15746	2.38187	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q15746
+MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	NA	100	O00159	1.63236	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O00159
+NACA	nascent polypeptide associated complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:7629]	NA	100	E9PAV3;Q13765	0.319254	proteoscore	FALSE	tf	-100	E9PAV3;Q13765	-0.727908	proteoscore;proteoscore	FALSE	tf	Q13765
+NACA	nascent polypeptide associated complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:7629]	NA	100	E9PAV3;Q13765	0.319254	proteoscore	FALSE	tf	-100	E9PAV3;Q13765	-0.727908	proteoscore;proteoscore	FALSE	tf	E9PAV3
+NAMPT	nicotinamide phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:30092]	NA	-100	P43490	-1.5156	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P43490
+NBR1	NBR1 autophagy cargo receptor [Source:HGNC Symbol;Acc:HGNC:6746]	y	100	Q14596	2.5731	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14596
+NCK1	NCK adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:7664]	NA	100	P16333	0.556959	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P16333
+NCOA2	nuclear receptor coactivator 2 [Source:HGNC Symbol;Acc:HGNC:7669]		100	Q15596	2.33365	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q15596
+NCOA3	nuclear receptor coactivator 3 [Source:HGNC Symbol;Acc:HGNC:7670]		-100	Q9Y6Q9	-2.26597	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9Y6Q9
+NCOA6	nuclear receptor coactivator 6 [Source:HGNC Symbol;Acc:HGNC:15936]		-100	Q14686	-1.10556	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q14686
+NCOR1	nuclear receptor corepressor 1 [Source:HGNC Symbol;Acc:HGNC:7672]		100	O75376	0.385145	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O75376
+NCOR2	nuclear receptor corepressor 2 [Source:HGNC Symbol;Acc:HGNC:7673]		100	Q9Y618	0.640984	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9Y618
+NCSTN	nicastrin [Source:HGNC Symbol;Acc:HGNC:17091]	NA	100	Q92542	0.330169	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q92542
+NDRG1	N-myc downstream regulated 1 [Source:HGNC Symbol;Acc:HGNC:7679]	NA	100	Q92597	4.48259	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q92597
+NEDD1	NEDD1 gamma-tubulin ring complex targeting factor [Source:HGNC Symbol;Acc:HGNC:7723]	NA	100	Q8NHV4	1.09413	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8NHV4
+NEDD4L	NEDD4 like E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:7728]	NA	100	Q96PU5	1.11785	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q96PU5
+NEFH	neurofilament heavy chain [Source:HGNC Symbol;Acc:HGNC:7737]	NA	-100	P12036	-1.62963	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P12036
+NES	nestin [Source:HGNC Symbol;Acc:HGNC:7756]	NA	-100	P48681	-2.89881	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P48681
+NF2	"NF2, moesin-ezrin-radixin like (MERLIN) tumor suppressor [Source:HGNC Symbol;Acc:HGNC:7773]"	NA	-100	P35240	-1.58993	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P35240
+NFAT5	nuclear factor of activated T cells 5 [Source:HGNC Symbol;Acc:HGNC:7774]	NA	-100	O94916	-2.38787	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O94916
+NFATC1	nuclear factor of activated T cells 1 [Source:HGNC Symbol;Acc:HGNC:7775]	NA	100	O95644	2.30679	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O95644
+NFE2	"nuclear factor, erythroid 2 [Source:HGNC Symbol;Acc:HGNC:7780]"	NA	-100	Q16621	-3.37331	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q16621
+NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	NA	100	P19838	1.11901	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P19838
+NFKB2	nuclear factor kappa B subunit 2 [Source:HGNC Symbol;Acc:HGNC:7795]	NA	100	Q00653	2.10388	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q00653
+NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	NA	-100	P25963	-0.674941	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P25963
+NFKBIB	NFKB inhibitor beta [Source:HGNC Symbol;Acc:HGNC:7798]	NA	-100	Q15653	-2.29192	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q15653
+NFX1	"nuclear transcription factor, X-box binding 1 [Source:HGNC Symbol;Acc:HGNC:7803]"	NA	100	Q12986	0.485969	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q12986
+NME1	NME/NM23 nucleoside diphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:7849]	NA	-100	P15531	-2.12165	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	P15531
+NOTCH2	notch receptor 2 [Source:HGNC Symbol;Acc:HGNC:7882]	y	100	Q04721	2.45101	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q04721
+NR2F6	nuclear receptor subfamily 2 group F member 6 [Source:HGNC Symbol;Acc:HGNC:7977]	y	-100	P10588	-1.67277	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P10588
+NR3C1	nuclear receptor subfamily 3 group C member 1 [Source:HGNC Symbol;Acc:HGNC:7978]	y	100	P04150	1.088	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P04150
+NRBF2	nuclear receptor binding factor 2 [Source:HGNC Symbol;Acc:HGNC:19692]		100	Q96F24	4.53774	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q96F24
+NTRK1	neurotrophic receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:8031]	y	-100	P04629-2;P04629	-1.14954	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P04629
+NUAK1	NUAK family kinase 1 [Source:HGNC Symbol;Acc:HGNC:14311]	NA	100	O60285	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	O60285
+NUMA1	nuclear mitotic apparatus protein 1 [Source:HGNC Symbol;Acc:HGNC:8059]	NA	-100	Q14980	-0.452807	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14980
+NUMB	NUMB endocytic adaptor protein [Source:HGNC Symbol;Acc:HGNC:8060]	NA	-100	P49757	-0.795907	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P49757
+NUP153	nucleoporin 153 [Source:HGNC Symbol;Acc:HGNC:8062]	NA	-100	P49790	-0.388845	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P49790
+NUP50	nucleoporin 50 [Source:HGNC Symbol;Acc:HGNC:8065]	NA	100	Q9UKX7	0.907992	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UKX7
+NUP98	nucleoporin 98 and 96 precursor [Source:HGNC Symbol;Acc:HGNC:8068]	NA	-100	P52948	-0.307415	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P52948
+OFD1	OFD1 centriole and centriolar satellite protein [Source:HGNC Symbol;Acc:HGNC:2567]	NA	-100	O75665	-0.63206	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O75665
+OGT	O-linked N-acetylglucosamine (GlcNAc) transferase [Source:HGNC Symbol;Acc:HGNC:8127]	NA	100	O15294	0.296845	proteoscore	FALSE	other	-100	O15294	-0.58584	proteoscore;proteoscore	FALSE	other	O15294
+OTUD5	OTU deubiquitinase 5 [Source:HGNC Symbol;Acc:HGNC:25402]	NA	-100	Q96G74	-0.420907	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q96G74
+OXSR1	oxidative stress responsive kinase 1 [Source:HGNC Symbol;Acc:HGNC:8508]	NA	-100	O95747	-2.76179	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	O95747
+PA2G4	proliferation-associated 2G4 [Source:HGNC Symbol;Acc:HGNC:8550]	NA	-100	Q9UQ80	-0.254434	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9UQ80
+PABPC1	poly(A) binding protein cytoplasmic 1 [Source:HGNC Symbol;Acc:HGNC:8554]	NA	100	P11940	0.408723	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P11940
+PAK1	p21 (RAC1) activated kinase 1 [Source:HGNC Symbol;Acc:HGNC:8590]	NA	32	Q13153	NA	CARNIVAL	FALSE	kin	-100	Q13153	NA	CARNIVAL	FALSE	kin	Q13153
+PAK4	p21 (RAC1) activated kinase 4 [Source:HGNC Symbol;Acc:HGNC:16059]	NA	-100	O96013	-2.42274	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	O96013
+PARK7	Parkinsonism associated deglycase [Source:HGNC Symbol;Acc:HGNC:16369]	NA	-100	Q99497	-0.818016	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q99497
+PARP1	poly(ADP-ribose) polymerase 1 [Source:HGNC Symbol;Acc:HGNC:270]	NA	-100	P09874	-1.6899	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P09874
+PAX7	paired box 7 [Source:HGNC Symbol;Acc:HGNC:8621]	NA	-47	P23759	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	P23759
+PBX2	PBX homeobox 2 [Source:HGNC Symbol;Acc:HGNC:8633]	NA	-100	P40425	-2.43824	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P40425
+PCBP2	poly(rC) binding protein 2 [Source:HGNC Symbol;Acc:HGNC:8648]	NA	100	Q15366	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q15366
+PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	NA	100	P12004	1.75361	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P12004
+PCYT1A	"phosphate cytidylyltransferase 1A, choline [Source:HGNC Symbol;Acc:HGNC:8754]"	NA	-100	P49585	-1.10063	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P49585
+PER2	period circadian regulator 2 [Source:HGNC Symbol;Acc:HGNC:8846]	NA	100	O15055	NA	CARNIVAL	FALSE	tf	-100	O15055	NA	CARNIVAL	FALSE	tf	O15055
+PFKFB3	"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3 [Source:HGNC Symbol;Acc:HGNC:8874]"	NA	100	Q16875	0.86091	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q16875
+PFKFB4	"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4 [Source:HGNC Symbol;Acc:HGNC:8875]"	NA	-100	Q16877	-3.81972	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q16877
+PFKM	"phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]"	NA	-100	P08237	-0.673072	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P08237
+PFKP	"phosphofructokinase, platelet [Source:HGNC Symbol;Acc:HGNC:8878]"	NA	-100	Q01813	-3.72865	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q01813
+PGAM1	phosphoglycerate mutase 1 [Source:HGNC Symbol;Acc:HGNC:8888]	NA	-100	P18669	-3.263205	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P18669
+PGM1	phosphoglucomutase 1 [Source:HGNC Symbol;Acc:HGNC:8905]	NA	100	P36871	7.618	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P36871
+PGR	progesterone receptor [Source:HGNC Symbol;Acc:HGNC:8910]	y	100	P06401-2;P06401	1.5841	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P06401
+PHF8	PHD finger protein 8 [Source:HGNC Symbol;Acc:HGNC:20672]	NA	0	Q9UPP1	0.413772	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9UPP1
+PHLPP1	PH domain and leucine rich repeat protein phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:20610]	NA	100	O60346	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	O60346
+PHOX2A	paired like homeobox 2A [Source:HGNC Symbol;Acc:HGNC:691]	NA	-100	O14813	-1.96802	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O14813
+PI4KB	phosphatidylinositol 4-kinase beta [Source:HGNC Symbol;Acc:HGNC:8984]	NA	-100	Q9UBF8-2;Q9UBF8	-1.46949	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9UBF8
+PIK3C3	phosphatidylinositol 3-kinase catalytic subunit type 3 [Source:HGNC Symbol;Acc:HGNC:8974]	NA	100	Q8NEB9	0.70362	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q8NEB9
+PIK3CB	"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]"	NA	100	P42338	-1.23306	proteoscore	TRUE	kin	NA	NA	NA	NA	NA	NA	P42338
+PIK3R2	phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980]	NA	-100	O00459	-1.26571	proteoscore	FALSE	other	100	O00459	0.570271	proteoscore;proteoscore	FALSE	other	O00459
+PIM2	"Pim-2 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:8987]"	NA	-100	Q9P1W9	-0.07898813	VIPER	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9P1W9
+PIP3	NA	NA	100	CHEBI:16618	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	NA
+PIP4K2A	phosphatidylinositol-5-phosphate 4-kinase type 2 alpha [Source:HGNC Symbol;Acc:HGNC:8997]	NA	-100	P48426	-0.94571	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P48426
+PKM	pyruvate kinase M1/2 [Source:HGNC Symbol;Acc:HGNC:9021]	NA	100	P14618-2;P14618	0.246195	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P14618
+PLA2G4A	phospholipase A2 group IVA [Source:HGNC Symbol;Acc:HGNC:9035]	NA	100	P47712	4.556884999999999	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P47712
+PLCG2	phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	NA	100	P16885	2.43688	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P16885
+PLD1	phospholipase D1 [Source:HGNC Symbol;Acc:HGNC:9067]	NA	-100	Q13393	-3.15375	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13393
+PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]	NA	100	Q15149	1.07465	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q15149
+PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	NA	100	O15162	2.14986	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O15162
+PML	PML nuclear body scaffold [Source:HGNC Symbol;Acc:HGNC:9113]	NA	-100	P29590-4;P29590	-0.486177	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P29590
+POLR2A	NA	NA	100	P24928	0.252709	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	NA
+POU2F1	POU class 2 homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9212]	NA	-100	P14859	-2.55419	proteoscore	FALSE	tf	100	P14859	0.493168	proteoscore;proteoscore	FALSE	tf	P14859
+PPARG	peroxisome proliferator activated receptor gamma [Source:HGNC Symbol;Acc:HGNC:9236]	y	100	P37231-2;P37231	NA	CARNIVAL	FALSE	tf	-100	P37231-2;P37231	NA	CARNIVAL	FALSE	tf	P37231
+PPAT	phosphoribosyl pyrophosphate amidotransferase [Source:HGNC Symbol;Acc:HGNC:9238]	NA	100	Q06203	0.377845	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q06203
+PPM1A	"protein phosphatase, Mg2+/Mn2+ dependent 1A [Source:HGNC Symbol;Acc:HGNC:9275]"	NA	-100	P35813	0.371748	proteoscore	TRUE	other	NA	NA	NA	NA	NA	NA	P35813
+PPM1B	"protein phosphatase, Mg2+/Mn2+ dependent 1B [Source:HGNC Symbol;Acc:HGNC:9276]"	NA	-100	O75688	-0.515985	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O75688
+PPME1	protein phosphatase methylesterase 1 [Source:HGNC Symbol;Acc:HGNC:30178]	NA	-100	Q9Y570	-1.10731	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9Y570
+PPP1R12A	protein phosphatase 1 regulatory subunit 12A [Source:HGNC Symbol;Acc:HGNC:7618]	NA	100	O14974	0.763677	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	O14974
+PPP1R15A	protein phosphatase 1 regulatory subunit 15A [Source:HGNC Symbol;Acc:HGNC:14375]	NA	-50	O75807	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	O75807
+PPP1R9B	protein phosphatase 1 regulatory subunit 9B [Source:HGNC Symbol;Acc:HGNC:9298]	NA	-100	Q96SB3	-0.340843	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q96SB3
+PPP2CA	protein phosphatase 2 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9299]	NA	-100	P67775	NA	CARNIVAL	FALSE	phos	NA	NA	NA	NA	NA	NA	P67775
+PPP2R5A	protein phosphatase 2 regulatory subunit B'alpha [Source:HGNC Symbol;Acc:HGNC:9309]	NA	-100	Q15172	-0.37889	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q15172
+PPP2R5D	protein phosphatase 2 regulatory subunit B'delta [Source:HGNC Symbol;Acc:HGNC:9312]	NA	100	Q14738	0.319799	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14738
+PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	NA	100	Q08209	1.65807	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q08209
+PPP3CB	protein phosphatase 3 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9315]	NA	100	P16298	1.5977	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P16298
+PPP5C	protein phosphatase 5 catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9322]	NA	-100	P53041	-1.05998	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P53041
+PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	NA	-100	Q06830	-0.831708	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q06830
+PRDX6	peroxiredoxin 6 [Source:HGNC Symbol;Acc:HGNC:16753]	NA	-100	P30041	-1.50282	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P30041
+PRKAA2	protein kinase AMP-activated catalytic subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:9377]	NA	-100	P54646	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	P54646
+PRKAB1	protein kinase AMP-activated non-catalytic subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:9378]	NA	-100	Q9Y478	-7.39692	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9Y478
+PRKACB	protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	NA	100	P22694	8.655115253	VIPER	FALSE	kin	NA	NA	NA	NA	NA	NA	P22694
+PRKAG1	protein kinase AMP-activated non-catalytic subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:9385]	NA	-100	P54619	-1.88032	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P54619
+PRKAR1A	protein kinase cAMP-dependent type I regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9388]	NA	-100	P10644	-1.89818	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P10644
+PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	NA	-100	P17252	1.17795	PhosphoScore	TRUE	kin	NA	NA	NA	NA	NA	NA	P17252
+PRKCB	protein kinase C beta [Source:HGNC Symbol;Acc:HGNC:9395]	NA	-100	P05771-2;P05771	-2.278894415	VIPER+PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	P05771
+PRKCE	protein kinase C epsilon [Source:HGNC Symbol;Acc:HGNC:9401]	NA	-100	Q02156	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	Q02156
+PRKD1	protein kinase D1 [Source:HGNC Symbol;Acc:HGNC:9407]	NA	-100	Q15139	NA	CARNIVAL	FALSE	kin	100	Q15139	NA	CARNIVAL	FALSE	kin	Q15139
+PRKD2	protein kinase D2 [Source:HGNC Symbol;Acc:HGNC:17293]	NA	-100	Q9BZL6	-1.236336	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9BZL6
+PRKG1	protein kinase cGMP-dependent 1 [Source:HGNC Symbol;Acc:HGNC:9414]	NA	-100	Q13976-2;Q13976	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	Q13976
+PRKN	parkin RBR E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:8607]	NA	100	O60260	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	O60260
+PRPS2	phosphoribosyl pyrophosphate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:9465]	NA	100	P11908	0.534192	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P11908
+PSEN1	presenilin 1 [Source:HGNC Symbol;Acc:HGNC:9508]	NA	-100	P49768	-2.67008	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P49768
+PSMD2	"proteasome 26S subunit ubiquitin receptor, non-ATPase 2 [Source:HGNC Symbol;Acc:HGNC:9559]"	y	-100	Q13200	-3.40836	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13200
+PSMD7	"proteasome 26S subunit, non-ATPase 7 [Source:HGNC Symbol;Acc:HGNC:9565]"	NA	-100	P51665	-0.312714	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P51665
+PSTPIP1	proline-serine-threonine phosphatase interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:9580]	NA	100	O43586	3.64444	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O43586
+PTBP1	polypyrimidine tract binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9583]	NA	-100	P26599	-0.393744	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P26599
+PTEN	phosphatase and tensin homolog [Source:HGNC Symbol;Acc:HGNC:9588]	NA	-100	P60484	0.1026848363628306	VIPER	TRUE	phos	NA	NA	NA	NA	NA	NA	P60484
+PTK7	protein tyrosine kinase 7 (inactive) [Source:HGNC Symbol;Acc:HGNC:9618]	NA	-100	Q13308	-0.782732	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q13308
+PTPN12	protein tyrosine phosphatase non-receptor type 12 [Source:HGNC Symbol;Acc:HGNC:9645]		-100	Q05209	0.7369464652857403	VIPER	TRUE	phos	NA	NA	NA	NA	NA	NA	Q05209
+PTPRC	protein tyrosine phosphatase receptor type C [Source:HGNC Symbol;Acc:HGNC:9666]	y	100	P08575	1.37924	proteoscore	FALSE	phos	NA	NA	NA	NA	NA	NA	P08575
+RAB7A	"RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]"	NA	100	P51149	0.223526	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P51149
+RACGAP1	Rac GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:9804]	NA	100	Q9H0H5	2.48082	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9H0H5
+RACK1	receptor for activated C kinase 1 [Source:HGNC Symbol;Acc:HGNC:4399]	y	-100	P63244	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	P63244
+RAD17	RAD17 checkpoint clamp loader component [Source:HGNC Symbol;Acc:HGNC:9807]	NA	100	O75943	0.530074	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O75943
+RAD23A	"RAD23 homolog A, nucleotide excision repair protein [Source:HGNC Symbol;Acc:HGNC:9812]"	NA	-100	P54725	-1.1321	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P54725
+RAD51	RAD51 recombinase [Source:HGNC Symbol;Acc:HGNC:9817]	NA	100	Q06609	0.37857	proteoscore	FALSE	other	-100	Q06609	-0.640152	proteoscore;proteoscore	FALSE	other	Q06609
+RAI14	retinoic acid induced 14 [Source:HGNC Symbol;Acc:HGNC:14873]	NA	-100	Q9P0K7	-3.62071	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9P0K7
+RALA	RAS like proto-oncogene A [Source:HGNC Symbol;Acc:HGNC:9839]	NA	-100	P11233	-1.9505	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P11233
+RALBP1	ralA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9841]	NA	-100	Q15311	-0.516579	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q15311
+RANBP2	RAN binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9848]	NA	-100	P49792	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	P49792
+RANBP3	RAN binding protein 3 [Source:HGNC Symbol;Acc:HGNC:9850]	NA	100	Q9H6Z4	2.41471	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9H6Z4
+RANBP9	RAN binding protein 9 [Source:HGNC Symbol;Acc:HGNC:13727]	NA	-100	Q96S59	-0.814079	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q96S59
+RANGAP1	Ran GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:9854]	NA	-100	P46060	1.38744	proteoscore	TRUE	other	NA	NA	NA	NA	NA	NA	P46060
+RAP1GAP	RAP1 GTPase activating protein [Source:HGNC Symbol;Acc:HGNC:9858]	NA	-100	P47736	-2.27011	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P47736
+RASA1	RAS p21 protein activator 1 [Source:HGNC Symbol;Acc:HGNC:9871]	NA	100	P20936	0.465945	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P20936
+RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	NA	100	P06400	1.449865	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	P06400
+RBBP8	"RB binding protein 8, endonuclease [Source:HGNC Symbol;Acc:HGNC:9891]"	NA	45	Q99708	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	Q99708
+RBPJ	recombination signal binding protein for immunoglobulin kappa J region [Source:HGNC Symbol;Acc:HGNC:5724]	NA	100	Q06330	2.22473	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q06330
+RCAN1	regulator of calcineurin 1 [Source:HGNC Symbol;Acc:HGNC:3040]	NA	100	P53805-2;P53805	1.30431	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P53805
+RCSD1	RCSD domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28310]	NA	-100	Q6JBY9	-2.39746	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q6JBY9
+RDX	radixin [Source:HGNC Symbol;Acc:HGNC:9944]	NA	100	P35241	0.905843	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P35241
+REL	"REL proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9954]"	NA	-100	Q04864	-1.66989	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q04864
+RELA	"RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]"	NA	-100	Q04206	-0.212245	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q04206
+RET	ret proto-oncogene [Source:HGNC Symbol;Acc:HGNC:9967]	NA	100	P07949	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	P07949
+RFX5	regulatory factor X5 [Source:HGNC Symbol;Acc:HGNC:9986]	NA	-100	P48382	-1.14298	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P48382
+RHEB	"Ras homolog, mTORC1 binding [Source:HGNC Symbol;Acc:HGNC:10011]"	NA	-100	Q15382	-0.758591	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q15382
+RHOT2	ras homolog family member T2 [Source:HGNC Symbol;Acc:HGNC:21169]	NA	-100	Q8IXI1	-2.51896	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8IXI1
+RIN1	Ras and Rab interactor 1 [Source:HGNC Symbol;Acc:HGNC:18749]	NA	-100	Q13671	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q13671
+RIPK1	receptor interacting serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:10019]		100	Q13546	4.75572	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q13546
+RLIM	"ring finger protein, LIM domain interacting [Source:HGNC Symbol;Acc:HGNC:13429]"	NA	100	Q9NVW2	2.10531	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9NVW2
+RNF111	ring finger protein 111 [Source:HGNC Symbol;Acc:HGNC:17384]	NA	100	Q6ZNA4	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q6ZNA4
+RNF5	ring finger protein 5 [Source:HGNC Symbol;Acc:HGNC:10068]	NA	-100	Q99942	-3.36812	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q99942
+RNF7	ring finger protein 7 [Source:HGNC Symbol;Acc:HGNC:10070]	NA	-100	Q9UBF6	-0.695446	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UBF6
+RNF8	ring finger protein 8 [Source:HGNC Symbol;Acc:HGNC:10071]	NA	-100	O76064	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	O76064
+ROCK1	Rho associated coiled-coil containing protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:10251]	NA	100	Q13464	0.418552	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q13464
+ROCK2	Rho associated coiled-coil containing protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:10252]	NA	-100	O75116	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	O75116
+RPA1	replication protein A1 [Source:HGNC Symbol;Acc:HGNC:10289]	NA	100	P27694	0.56737	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P27694
+RPS3	ribosomal protein S3 [Source:HGNC Symbol;Acc:HGNC:10420]	NA	100	P23396	0.922608	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P23396
+RPS6KA3	ribosomal protein S6 kinase A3 [Source:HGNC Symbol;Acc:HGNC:10432]	NA	-100	P51812	-0.82755	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P51812
+RPS6KA4	ribosomal protein S6 kinase A4 [Source:HGNC Symbol;Acc:HGNC:10433]	NA	100	O75676	3.68003	proteoscore	FALSE	kin	-100	O75676	-1.15202332	VIPER;VIPER	FALSE	kin	O75676
+RPTOR	regulatory associated protein of MTOR complex 1 [Source:HGNC Symbol;Acc:HGNC:30287]	NA	100	Q8N122	0.3363450000000001	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8N122
+RUNX3	RUNX family transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:10473]	NA	100	Q13761	2.64346	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q13761
+RXRA	retinoid X receptor alpha [Source:HGNC Symbol;Acc:HGNC:10477]	y	-100	P19793	-1.73308	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P19793
+SCRIB	scribble planar cell polarity protein [Source:HGNC Symbol;Acc:HGNC:30377]	NA	-100	Q14160	-0.522036	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14160
+SET	SET nuclear proto-oncogene [Source:HGNC Symbol;Acc:HGNC:10760]	NA	100	Q01105-2;Q01105	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q01105
+SGK1	serum/glucocorticoid regulated kinase 1 [Source:HGNC Symbol;Acc:HGNC:10810]	NA	-23.5	O00141	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	O00141
+SH2B1	SH2B adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:30417]	NA	-100	Q9NRF2	-1.62286	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NRF2
+SHMT1	serine hydroxymethyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10850]	NA	100	P34896	3.31535	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P34896
+SHMT2	serine hydroxymethyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10852]	NA	100	P34897	0.554384	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P34897
+SHOC2	SHOC2 leucine rich repeat scaffold protein [Source:HGNC Symbol;Acc:HGNC:15454]	NA	100	Q9UQ13	1.16513	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UQ13
+SIK3	SIK family kinase 3 [Source:HGNC Symbol;Acc:HGNC:29165]	NA	100	Q9Y2K2	2.15574	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9Y2K2
+SIRT1	sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929]	NA	-100	Q96EB6	-2.75919	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q96EB6
+SIRT3	sirtuin 3 [Source:HGNC Symbol;Acc:HGNC:14931]	NA	-100	Q9NTG7	-2.3511	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NTG7
+SIRT4	sirtuin 4 [Source:HGNC Symbol;Acc:HGNC:14932]	NA	100	Q9Y6E7	0.51203	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9Y6E7
+SIRT7	sirtuin 7 [Source:HGNC Symbol;Acc:HGNC:14935]	NA	100	Q9NRC8	2.2862	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NRC8
+SKI	SKI proto-oncogene [Source:HGNC Symbol;Acc:HGNC:10896]	NA	-100	P12755	-2.71027	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P12755
+SKP1_PAM_E3	NA	NA	100	SIGNOR-C537	NA	CARNIVAL	FALSE	complex	NA	NA	NA	NA	NA	NA	NA
+SLC19A1	solute carrier family 19 member 1 [Source:HGNC Symbol;Acc:HGNC:10937]	NA	100	P41440	0.650896	proteoscore	FALSE	other	-100	P41440	-1.7253	proteoscore;proteoscore	FALSE	other	P41440
+SLC1A3	solute carrier family 1 member 3 [Source:HGNC Symbol;Acc:HGNC:10941]	NA	100	P43003	1.57673	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P43003
+SLC7A11	solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	NA	100	Q9UPY5	3.29107	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UPY5
+SMAD2	SMAD family member 2 [Source:HGNC Symbol;Acc:HGNC:6768]	NA	100	Q15796	0.435522	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q15796
+SMAD3	SMAD family member 3 [Source:HGNC Symbol;Acc:HGNC:6769]	NA	-100	P84022	-2.55393	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P84022
+SMAD4	SMAD family member 4 [Source:HGNC Symbol;Acc:HGNC:6770]	NA	-100	Q13485	-0.373958	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q13485
+SMAD5	SMAD family member 5 [Source:HGNC Symbol;Acc:HGNC:6771]	NA	-100	Q99717	-0.872607	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q99717
+SMARCAL1	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a like 1 [Source:HGNC Symbol;Acc:HGNC:11102]"	NA	100	Q9NZC9	1.61077	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NZC9
+SMC3	structural maintenance of chromosomes 3 [Source:HGNC Symbol;Acc:HGNC:2468]	NA	100	Q9UQE7	0.766281	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UQE7
+SNAI1	snail family transcriptional repressor 1 [Source:HGNC Symbol;Acc:HGNC:11128]	NA	100	O95863	2.91426	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	O95863
+SNCA	synuclein alpha [Source:HGNC Symbol;Acc:HGNC:11138]	NA	100	P37840	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	P37840
+SND1	staphylococcal nuclease and tudor domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30646]	NA	-100	Q7KZF4	-1.61487	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q7KZF4
+SNX9	sorting nexin 9 [Source:HGNC Symbol;Acc:HGNC:14973]	NA	-100	Q9Y5X1	-5.71169	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9Y5X1
+SOCS2	suppressor of cytokine signaling 2 [Source:HGNC Symbol;Acc:HGNC:19382]	NA	-100	O14508	-3.07007	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O14508
+SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	NA	-100	P00441	-4.89831	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P00441
+SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:11187]	NA	-100	Q07889	-1.82072	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q07889
+SOX6	SRY-box transcription factor 6 [Source:HGNC Symbol;Acc:HGNC:16421]	NA	100	P35712	2.86105	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P35712
+SP1	Sp1 transcription factor [Source:HGNC Symbol;Acc:HGNC:11205]	NA	100	P08047	NA	CARNIVAL	FALSE	tf	-100	P08047	NA	CARNIVAL	FALSE	tf	P08047
+SP100	SP100 nuclear antigen [Source:HGNC Symbol;Acc:HGNC:11206]	NA	-100	P23497	-2.25768	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P23497
+SP3	Sp3 transcription factor [Source:HGNC Symbol;Acc:HGNC:11208]	NA	-100	Q02447	-0.32243	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q02447
+SPEN	spen family transcriptional repressor [Source:HGNC Symbol;Acc:HGNC:17575]	NA	-100	Q96T58	-0.707619	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q96T58
+SPHK2	sphingosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:18859]	NA	100	Q9NRA0	2.86675	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9NRA0
+SPRY2	sprouty RTK signaling antagonist 2 [Source:HGNC Symbol;Acc:HGNC:11270]	NA	100	O43597	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	O43597
+SRC	"SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]"		-100	P12931	-5.07364	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	P12931
+SREBF1	sterol regulatory element binding transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:11289]	NA	49	P36956-3;P36956	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	P36956
+SREBF2	sterol regulatory element binding transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:11290]	NA	-75.5	Q12772	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	Q12772
+SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	NA	100	P30626	0.52781	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P30626
+SSH1	slingshot protein phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:30579]	NA	100	Q8WYL5	1.50089	PhosphoScore	FALSE	phos	-100	Q8WYL5	-1.58126	PhosphoScore;VIPER	FALSE	phos	Q8WYL5
+STAM2	signal transducing adaptor molecule 2 [Source:HGNC Symbol;Acc:HGNC:11358]	NA	100	O75886	0.291506	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O75886
+STAR	steroidogenic acute regulatory protein [Source:HGNC Symbol;Acc:HGNC:11359]	NA	-100	P49675	-4.29313	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P49675
+STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	NA	-100	P42224	-1.84326	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	P42224
+STAT2	signal transducer and activator of transcription 2 [Source:HGNC Symbol;Acc:HGNC:11363]	NA	-100	P52630	-0.362077	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P52630
+STAT5B	signal transducer and activator of transcription 5B [Source:HGNC Symbol;Acc:HGNC:11367]	NA	-100	P51692	-1.0911	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P51692
+STIM1	stromal interaction molecule 1 [Source:HGNC Symbol;Acc:HGNC:11386]	NA	100	Q13586	2.57331425	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13586
+STK11	serine/threonine kinase 11 [Source:HGNC Symbol;Acc:HGNC:11389]	NA	100	Q15831-2;Q15831	0.708015	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q15831
+STK24	serine/threonine kinase 24 [Source:HGNC Symbol;Acc:HGNC:11403]	NA	100	Q9Y6E0	0.422902	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9Y6E0
+STK38	serine/threonine kinase 38 [Source:HGNC Symbol;Acc:HGNC:17847]	NA	-100	Q15208	NA	CARNIVAL	FALSE	kin	NA	NA	NA	NA	NA	NA	Q15208
+STK38L	serine/threonine kinase 38 like [Source:HGNC Symbol;Acc:HGNC:17848]	NA	100	Q9Y2H1	1.68574	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q9Y2H1
+SUFU	SUFU negative regulator of hedgehog signaling [Source:HGNC Symbol;Acc:HGNC:16466]	NA	100	Q9UMX1	2.60241	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9UMX1
+SYNE3	spectrin repeat containing nuclear envelope family member 3 [Source:HGNC Symbol;Acc:HGNC:19861]	NA	100	Q6ZMZ3	2.07237	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q6ZMZ3
+TAB1	TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [Source:HGNC Symbol;Acc:HGNC:18157]	NA	-100	Q15750	-0.503864	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q15750
+TAB2	TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [Source:HGNC Symbol;Acc:HGNC:17075]	NA	100	Q9NYJ8	1.60039	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NYJ8
+TAGLN2	transgelin 2 [Source:HGNC Symbol;Acc:HGNC:11554]	NA	-100	P37802	0.404975	proteoscore	TRUE	other	NA	NA	NA	NA	NA	NA	P37802
+TAL1	"TAL bHLH transcription factor 1, erythroid differentiation factor [Source:HGNC Symbol;Acc:HGNC:11556]"	NA	100	P17542	0.795826	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P17542
+TANK	TRAF family member associated NFKB activator [Source:HGNC Symbol;Acc:HGNC:11562]	NA	100	Q92844	0.950063	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q92844
+TAOK1	TAO kinase 1 [Source:HGNC Symbol;Acc:HGNC:29259]	NA	100	Q7L7X3	0.522349	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q7L7X3
+TARDBP	TAR DNA binding protein [Source:HGNC Symbol;Acc:HGNC:11571]	NA	100	Q13148	0.614758	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13148
+TBCB	tubulin folding cofactor B [Source:HGNC Symbol;Acc:HGNC:1989]	NA	100	Q99426	0.467875	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q99426
+TBL1XR1	TBL1X/Y related 1 [Source:HGNC Symbol;Acc:HGNC:29529]	NA	-100	Q9BZK7	-1.20313	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9BZK7
+TBXA2R	thromboxane A2 receptor [Source:HGNC Symbol;Acc:HGNC:11608]	y	-100	P21731	-3.54123	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P21731
+TCF12	transcription factor 12 [Source:HGNC Symbol;Acc:HGNC:11623]	NA	100	Q99081	1.43966	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q99081
+TCF3	transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:11633]	NA	100	P15923	5.64454	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	P15923
+TCOF1	treacle ribosome biogenesis factor 1 [Source:HGNC Symbol;Acc:HGNC:11654]	NA	-100	Q13428	-0.487175	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13428
+TDP2	tyrosyl-DNA phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:17768]	NA	-100	O95551	-3.79092	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O95551
+TERF1	telomeric repeat binding factor 1 [Source:HGNC Symbol;Acc:HGNC:11728]	NA	-100	P54274	-1.66086	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P54274
+TET2	tet methylcytosine dioxygenase 2 [Source:HGNC Symbol;Acc:HGNC:25941]	NA	100	Q6N021	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q6N021
+TFAM	"transcription factor A, mitochondrial [Source:HGNC Symbol;Acc:HGNC:11741]"	NA	-100	Q00059	-2.6226	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q00059
+TFCP2	transcription factor CP2 [Source:HGNC Symbol;Acc:HGNC:11748]	NA	-100	Q12800	-4.34795	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q12800
+TFEB	transcription factor EB [Source:HGNC Symbol;Acc:HGNC:11753]	NA	-100	P19484	-2.675633333	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	P19484
+TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	NA	100	P01137	1.75671	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P01137
+TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	y	-100	P36897	-1.334272769	VIPER	FALSE	kin	NA	NA	NA	NA	NA	NA	P36897
+TIMELESS	timeless circadian regulator [Source:HGNC Symbol;Acc:HGNC:11813]	NA	100	Q9UNS1	0.631938	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9UNS1
+TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	y	100	P19438	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	P19438
+TNK2	tyrosine kinase non receptor 2 [Source:HGNC Symbol;Acc:HGNC:19297]		-100	Q07912	0.953663	proteoscore	TRUE	kin	NA	NA	NA	NA	NA	NA	Q07912
+TNKS1BP1	tankyrase 1 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:19081]	NA	-100	Q9C0C2	-1.80349	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9C0C2
+TNPO1	transportin 1 [Source:HGNC Symbol;Acc:HGNC:6401]	NA	-100	Q92973	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	Q92973
+TOP1	DNA topoisomerase I [Source:HGNC Symbol;Acc:HGNC:11986]	NA	-100	P11387	-0.42225	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P11387
+TOPORS	"TOP1 binding arginine/serine rich protein, E3 ubiquitin ligase [Source:HGNC Symbol;Acc:HGNC:21653]"	NA	100	Q9NS56	1.10211	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9NS56
+TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	NA	-100	P04637	NA	CARNIVAL	FALSE	tf	100	P04637	NA	CARNIVAL	FALSE	tf	P04637
+TP53BP2	tumor protein p53 binding protein 2 [Source:HGNC Symbol;Acc:HGNC:12000]	NA	-100	Q13625	-2.05336	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13625
+TP53RK	TP53 regulating kinase [Source:HGNC Symbol;Acc:HGNC:16197]	NA	-100	Q96S44	-0.730668	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q96S44
+TP63	tumor protein p63 [Source:HGNC Symbol;Acc:HGNC:15979]	NA	100	Q9H3D4-2;Q9H3D4	NA	CARNIVAL	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9H3D4
+TPD52	tumor protein D52 [Source:HGNC Symbol;Acc:HGNC:12005]	NA	100	P55327	3.91957	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P55327
+TPR	"translocated promoter region, nuclear basket protein [Source:HGNC Symbol;Acc:HGNC:12017]"	NA	-100	P12270	-0.482972	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P12270
+TRADD	TNFRSF1A associated via death domain [Source:HGNC Symbol;Acc:HGNC:12030]	NA	100	Q15628	1.35259	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q15628
+TRAF2	TNF receptor associated factor 2 [Source:HGNC Symbol;Acc:HGNC:12032]		-100	Q12933	-3.68397	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q12933
+TRAF3	TNF receptor associated factor 3 [Source:HGNC Symbol;Acc:HGNC:12033]		100	Q13114	0.938413	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q13114
+TRIM24	tripartite motif containing 24 [Source:HGNC Symbol;Acc:HGNC:11812]	NA	-100	O15164	-1.54801	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O15164
+TRIM25	tripartite motif containing 25 [Source:HGNC Symbol;Acc:HGNC:12932]	NA	-100	Q14258	-1.18902	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q14258
+TRIM28	tripartite motif containing 28 [Source:HGNC Symbol;Acc:HGNC:16384]	NA	-100	Q13263	-4.97167	PhosphoScore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q13263
+TRIOBP	TRIO and F-actin binding protein [Source:HGNC Symbol;Acc:HGNC:17009]	NA	100	Q9H2D6	1.20591	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9H2D6
+TSC	NA	NA	100	SIGNOR-C101	NA	CARNIVAL	FALSE	complex	NA	NA	NA	NA	NA	NA	NA
+TSG101	tumor susceptibility 101 [Source:HGNC Symbol;Acc:HGNC:15971]	NA	-100	Q99816	-0.893792	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q99816
+TTC5	tetratricopeptide repeat domain 5 [Source:HGNC Symbol;Acc:HGNC:19274]	NA	100	Q8N0Z6	0.543739	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q8N0Z6
+TTK	TTK protein kinase [Source:HGNC Symbol;Acc:HGNC:12401]	NA	-100	P33981	-0.664197	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P33981
+TUBB	tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	NA	-100	P07437	-1.36029	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P07437
+TYK2	tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:12440]	NA	-100	P29597	-1.18763	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P29597
+UBA1	ubiquitin like modifier activating enzyme 1 [Source:HGNC Symbol;Acc:HGNC:12469]	NA	-100	P22314	0.602803	proteoscore	TRUE	other	NA	NA	NA	NA	NA	NA	P22314
+UBE2I	ubiquitin conjugating enzyme E2 I [Source:HGNC Symbol;Acc:HGNC:12485]	NA	-100	P63279	-0.430274	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P63279
+UBE2L3	ubiquitin conjugating enzyme E2 L3 [Source:HGNC Symbol;Acc:HGNC:12488]	NA	-100	P68036	-1.48314	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P68036
+UBE3A	ubiquitin protein ligase E3A [Source:HGNC Symbol;Acc:HGNC:12496]	NA	100	Q05086-2;Q05086	0.633369	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q05086
+UBTF	upstream binding transcription factor [Source:HGNC Symbol;Acc:HGNC:12511]	NA	100	P17480	0.25798	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P17480
+UB_E1__UBA1_SUBSTRATE_	NA	NA	-100	SIGNOR-C495	NA	CARNIVAL	FALSE	complex	NA	NA	NA	NA	NA	NA	NA
+UHRF1	ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556]	NA	100	Q96T88-2;Q96T88	0.809985	proteoscore	FALSE	other	-100	Q96T88-2;Q96T88	-0.829352	proteoscore;proteoscore	FALSE	other	Q96T88
+UIMC1	ubiquitin interaction motif containing 1 [Source:HGNC Symbol;Acc:HGNC:30298]	NA	-100	Q96RL1	-0.540403	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q96RL1
+USF1	upstream transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:12593]	NA	-100	P22415	-1.28364	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P22415
+USF2	"upstream transcription factor 2, c-fos interacting [Source:HGNC Symbol;Acc:HGNC:12594]"	NA	-100	Q15853	-1.17417	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q15853
+USP20	ubiquitin specific peptidase 20 [Source:HGNC Symbol;Acc:HGNC:12619]	NA	-100	Q9Y2K6	-1.53036	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9Y2K6
+USP28	ubiquitin specific peptidase 28 [Source:HGNC Symbol;Acc:HGNC:12625]	NA	-100	Q96RU2	-1.17385	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q96RU2
+VAMP2	vesicle associated membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:12643]	NA	-100	P63027	-1.65139	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P63027
+VASP	vasodilator stimulated phosphoprotein [Source:HGNC Symbol;Acc:HGNC:12652]	NA	-100	P50552	-0.691468	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P50552
+VAV1	vav guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:12657]	NA	100	P15498	0.519965	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P15498
+VCP	valosin containing protein [Source:HGNC Symbol;Acc:HGNC:12666]	NA	100	P55072	0.434502	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P55072
+VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	NA	-100	P08670	-3.24574	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P08670
+WAS	WASP actin nucleation promoting factor [Source:HGNC Symbol;Acc:HGNC:12731]	NA	100	P42768	3.62069	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	P42768
+WASL	WASP like actin nucleation promoting factor [Source:HGNC Symbol;Acc:HGNC:12735]	NA	-100	O00401	-0.784992	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O00401
+WBP2	WW domain binding protein 2 [Source:HGNC Symbol;Acc:HGNC:12738]	NA	-100	Q969T9	-1.32106	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q969T9
+WDR45B	WD repeat domain 45B [Source:HGNC Symbol;Acc:HGNC:25072]	NA	100	Q5MNZ6	1.06787	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q5MNZ6
+WDR62	WD repeat domain 62 [Source:HGNC Symbol;Acc:HGNC:24502]	NA	-100	O43379	-4.65182	PhosphoScore	FALSE	other	NA	NA	NA	NA	NA	NA	O43379
+WEE1	WEE1 G2 checkpoint kinase [Source:HGNC Symbol;Acc:HGNC:12761]	NA	-100	P30291	-0.944017	proteoscore	FALSE	kin	NA	NA	NA	NA	NA	NA	P30291
+WNK1	WNK lysine deficient protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:14540]	NA	-100	Q9H4A3	0.06434057	VIPER	TRUE	kin	NA	NA	NA	NA	NA	NA	Q9H4A3
+WNK4	WNK lysine deficient protein kinase 4 [Source:HGNC Symbol;Acc:HGNC:14544]	NA	-100	Q96J92	-2.45909	PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	Q96J92
+WRN	WRN RecQ like helicase [Source:HGNC Symbol;Acc:HGNC:12791]	NA	-100	Q14191	-1.54088	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q14191
+WT1	WT1 transcription factor [Source:HGNC Symbol;Acc:HGNC:12796]	NA	-100	P19544-7;P19544	-3.39717	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	P19544
+WTAP	WT1 associated protein [Source:HGNC Symbol;Acc:HGNC:16846]	NA	-100	Q15007	-0.376978	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q15007
+X2_OXOGLUTARATE_2__	NA	NA	-100	CHEBI:16810	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	NA
+XIAP	X-linked inhibitor of apoptosis [Source:HGNC Symbol;Acc:HGNC:592]	NA	-100	P98170	-1.81809	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P98170
+XPC	"XPC complex subunit, DNA damage recognition and repair factor [Source:HGNC Symbol;Acc:HGNC:12816]"	NA	-100	Q01831	-2.51476	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q01831
+XPO1	exportin 1 [Source:HGNC Symbol;Acc:HGNC:12825]	NA	-100	O14980	-0.806595	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	O14980
+X_R__2_HYDROXYGLUTARATE_2__	NA	NA	-100	NA	NA	CARNIVAL	FALSE	other	NA	NA	NA	NA	NA	NA	NA
+YES1	"YES proto-oncogene 1, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:12841]"	NA	-100	P07947	-2.258958694	VIPER+PhosphoScore	FALSE	kin	NA	NA	NA	NA	NA	NA	P07947
+YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [Source:HGNC Symbol;Acc:HGNC:12849]	NA	-100	P31946	-0.254984	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P31946
+YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	NA	-100	P61981	-0.544409	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	P61981
+ZDHHC5	zinc finger DHHC-type palmitoyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:18472]	NA	-100	Q9C0B5	-1.30885	proteoscore	FALSE	other	NA	NA	NA	NA	NA	NA	Q9C0B5
+ZEB2	zinc finger E-box binding homeobox 2 [Source:HGNC Symbol;Acc:HGNC:14881]	NA	-100	O60315	-2.66726	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	O60315
+ZMYND8	zinc finger MYND-type containing 8 [Source:HGNC Symbol;Acc:HGNC:9397]	NA	-100	Q9ULU4	-1.82964	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9ULU4
+ZNF148	zinc finger protein 148 [Source:HGNC Symbol;Acc:HGNC:12933]	NA	100	Q9UQR1	1.44261	proteoscore	FALSE	tf	NA	NA	NA	NA	NA	NA	Q9UQR1
+CELL CYCLE BLOCK	NA	NA	-100	NA	-0.10983918	phenoscore	FALSE	phenotype	NA	NA	NA	NA	NA	NA	NA
+CELL CYCLE EXIT	NA	NA	-100	NA	-0.356274035	phenoscore	FALSE	phenotype	NA	NA	NA	NA	NA	NA	NA
+DNA FRAGMENTATION	NA	NA	100	NA	0.7556223755099868	phenoscore	FALSE	phenotype	NA	NA	NA	NA	NA	NA	NA
+DNA REPAIR	NA	NA	-100	NA	-0.129945509	phenoscore	FALSE	phenotype	NA	NA	NA	NA	NA	NA	NA
+G1/S TRANSITION	NA	NA	-100	NA	-0.349457904	phenoscore	FALSE	phenotype	NA	NA	NA	NA	NA	NA	NA
