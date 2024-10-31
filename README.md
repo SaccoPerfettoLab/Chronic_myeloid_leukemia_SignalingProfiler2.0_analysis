@@ -2,9 +2,7 @@
 
 ## Abstract
 
-BLABLABLA 
-
-Read the full paper on [bioxRiv]().
+Abstract will be published after publication.
 
 ## Repository
 
