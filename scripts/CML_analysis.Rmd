@@ -455,8 +455,8 @@ ggplot(plot_trick, aes(x = final_score.K562, y = final_score.LAMA84, label = gen
   theme(legend.position = 'bottom', text = element_text(size = 8)) 
 
 ```
-**Figure 3A** Protein activity prediction results. Scatterplots showing the comparison between protein activity predicted in K562 (x-axis) and LAMA84 (y-axis) datasets. Each dot represents a protein, and the color indicates the molecular function: kinases (purple), phosphatases (green), others (violet), and transcription factors (orange). R indicates Pearson correlation.
 
+**Figure 3A** Protein activity prediction results. Scatterplots showing the comparison between protein activity predicted in K562 (x-axis) and LAMA84 (y-axis) datasets. Each dot represents a protein, and the color indicates the molecular function: kinases (purple), phosphatases (green), others (violet), and transcription factors (orange). R indicates Pearson correlation.
 
 ## Network analysis
 
@@ -482,7 +482,7 @@ phenoscore_result <- readRDS('../results/ima_ctrl/phenoscore.rds')
 phenoscore_result$barplot
 ```
 
-**Figure S3F** Bar plot of the phenotypic modulation upon imatinib treatment in sensitive cells inferred by SignalingProfiler 2.0.  Blue and red bars represent inactive and active phenotypes, respectively.
+**Figure S3F** Bar plot of the phenotypic modulation upon imatinib treatment in sensitive cells inferred by SignalingProfiler 2.0. Blue and red bars represent inactive and active phenotypes, respectively.
 
 #### Functional circuits from BCR-ABL1 to phenotypes
 
@@ -502,11 +502,12 @@ circuit <- pheno_to_start_circuit(SP_object = phenoscore_network,
                                     start_to_top = TRUE)
 ```
 
-![**Functional circuit**](./img/Ima_Ctrl_circuit.png)
-**Figure 3B** Functional submodel extracted from *SignalingProfiler* 2.0 output linking BCR-ABL to cellular phenotypes modulated upon imatinib treatment. Highlighted proteins are validated by western blot analysis. 
+![Functional circuit](./img/Ima_Ctrl_circuit.png) **Figure 3B** Functional submodel extracted from *SignalingProfiler* 2.0 output linking BCR-ABL to cellular phenotypes modulated upon imatinib treatment. Highlighted proteins are validated by western blot analysis.
 
 ## Comparison between K562 and patients
+
 To compare patients and cell lines, we computed the activity of transcription factors from transcriptomics data of patients downloaded from GEO (dataset n.GSE216837)
+
 ```{r eval = FALSE}
 # Transform RNAseq data in SignalingProfiler compliant format
 tr_df_p <- read_tsv('../input/patients_mRNA_ima_ctrl.tsv', show_col_types = FALSE)
@@ -550,7 +551,7 @@ ggplot(merged_TFs, aes(x = weightedNES, y = final_score, label = gene_name)) +
       theme_classic() 
 ```
 
-**Figure 2D** Scatterplot of transcription factors’ inferred activity with SignalnigProfiler 2.0 in patients samples from GEO dataset n. GSE216837 (x-axis) and K562 cell line (y-axis) upon imatinib exposure. R represents Pearson correlation. 
+**Figure 2D** Scatterplot of transcription factors' inferred activity with SignalnigProfiler 2.0 in patients samples from GEO dataset n. GSE216837 (x-axis) and K562 cell line (y-axis) upon imatinib exposure. R represents Pearson correlation.
 
 # Resistant cells vs Sensitive cells characterization
 
@@ -558,6 +559,7 @@ ggplot(merged_TFs, aes(x = weightedNES, y = final_score, label = gene_name)) +
 
 ```{r}
 protein_df <- read_tsv('../results/res_sens/final_score.tsv', show_col_types = FALSE)
+protein_df %>% count(mf)
 DT::datatable(protein_df)
 ```
 
@@ -573,6 +575,10 @@ proteins_df_ima_ctrl <- read_tsv('../results/ima_ctrl/final_score.tsv', show_col
 full_join(proteins_df_ima_ctrl, protein_df_rs, by = c('gene_name', 'mf'), suffix = c('.ima', '.res')) -> all_proteins_df
 
 #write_tsv(all_proteins_df, '../result_clean_bf/matched_ima_res_ctrl.tsv')
+
+all_proteins_df %>% dplyr::select(gene_name, final_score.ima, final_score.res) -> sub_df
+
+sum(rowSums(is.na(sub_df)) == 1) + nrow(sub_df %>% filter(final_score.ima * final_score.res < 0))
 
 all_proteins_df_kin <- all_proteins_df %>% filter(mf == 'kin' | mf == 'phos')
 
@@ -591,10 +597,11 @@ ggplot(all_proteins_df_kin, aes(x = final_score.ima, y = final_score.res, label 
   theme(legend.position = 'bottom', text = element_text(size = 8)) 
 
 ```
-**Figure 4E**  Scatterplots showing the comparison between kinases activity predicted in Sensitive (x-axis) and Resistant (y-axis) vs Control datasets for kinases and phosphatases. Each dot represents a protein. R indicates Pearson correlation.
 
+**Figure 4E** Scatterplots showing the comparison between kinases activity predicted in Sensitive (x-axis) and Resistant (y-axis) vs Control datasets for kinases and phosphatases. Each dot represents a protein. R indicates Pearson correlation.
 
 ## BCR-ABL dependent signaling network
+
 ```{r eval = FALSE,  warning = FALSE}
 ima_ctrl <- readRDS('../results/ima_ctrl/pheno_opt1.rds')
 res_sens <- readRDS('../results/res_sens/phenoscore.rds')
@@ -647,6 +654,7 @@ RCy3::setVisualStyle('SP_pheno_layout')
 ```
 
 ##### Visualization of anti-survival axes conserved in resistant cells
+
 ```{r eval = FALSE}
 bcr_abl_dependent <- readRDS('../results/res_sens/druggability_score/bcr_abl_dependent_res.rds')
 nodes_bcr_dep_network <- as_data_frame(bcr_abl_independent, what = 'vertices')
@@ -709,11 +717,13 @@ RCy3::createNetworkFromIgraph(igraph=sp_output_df$igraph_network,
 #RCy3::importVisualStyles(filename = data_path)
 RCy3::setVisualStyle('SP_pheno_layout')
 ```
+
 ![**BCR-ABL dependent signaling axes in K562-R**](./img/BCR_ABL_dependent.png)
 
 ## BCR-ABL independent signaling network
 
 #### Identification of receptors oppositely modulated in K562-R and sensitive cells
+
 We identified 23 alternative receptors that are resistant cells-specific or have opposite modulation between the two cell lines.
 
 ```{r eval = FALSE}
@@ -770,11 +780,12 @@ p <- pheatmap::pheatmap(t(as.matrix(heatmap_matrix)),
                         drop_legends = TRUE)
 ```
 
-**Figure S6B** Heatmap reporting for K562-R and K562 the activity of receptora in SignalingProfiler 2.0 generated networks. 
+**Figure S6B** Heatmap reporting for K562-R and K562 the activity of receptora in SignalingProfiler 2.0 generated networks.
 
-#### Build BCR-ABL independent signaling network from alternative receptors 
+#### Build BCR-ABL independent signaling network from alternative receptors
 
 These receptors were selected as starting points for functional circuits of maximum path length of 6.
+
 ```{r eval = FALSE}
 library(igraph)
 # Read sensitive and resistant cells networks
@@ -852,6 +863,7 @@ RCy3::setVisualStyle('SP_pheno_layout')
 ```
 
 #### Visualization of pro-survival signaling axes
+
 To focus on the signaling axes activating proliferation and inhibiting apoptosis, we optimized the BCR-ABL indepenendent network on active proliferation and inactive apoptosis.
 
 ```{r eval = FALSE}
@@ -914,6 +926,7 @@ RCy3::setVisualStyle('SP_pheno_layout')
 ```
 
 Then, we can extracted pro-survival circuits with maximum path length 4.
+
 ```{r eval = FALSE}
 
 sp_object_net <- readRDS('../results/res_sens/ind_circuit_optimized_optimized_validated.rds')
@@ -942,25 +955,26 @@ RCy3::createNetworkFromIgraph(igraph=circuit_specific,
 RCy3::setVisualStyle('SP_pheno_layout')
 
 ```
+
 ![**BCR-ABL independent signaling axes in K562-R**](./img/BCR_ABL_independent.png)
 
 ## Druggability score computation
 
-In the **druggability score** computation, we consider the **topology score* that is combined to the activation status of proteins.
+In the **druggability score** computation, we consider the \*\*topology score\* that is combined to the activation status of proteins.
 
 $$topologyscore = degree_{norm}+paths_{apoptosis}+paths_{proliferation}$$
 
 $$druggabilityscore=topologyscore * activity/100$$
 
-Here is reported the code. 
+Here is reported the code.
+
 ```{r eval = FALSE}
 
 # Vector of gene names of FDA-approved drug targets from literature (REF)
 dr_nodes <- c("BCL2" , "TNFRSF17" , "BCR_ABL" , "FLT4" , "KDR" , "FLT1" , 
               "FGFR" , "PDGFRA " , "PDGFRB" , "RET" , "KIT" , "TIE2" , "FLT3" , 
               "BTK" , "CCR4" , "CD19" , "MS4A1" , "CD22" , "TNFRSF8" , "CD38" , 
-              "CD79B" , "CDA" , "PDGFRA" , "PRKCA" , "AMPK" , "CDK1" , "SYK" , "CRBN" , 
-              "DNA_DAMAGE" , "RNMT" , "EZH2" , "AXL" , "ALK" , "IDH1" , "IDH2" ,
+              "CD79B" , "CDA" , "PDGFRA" , "PRKCA" , "AMPK" , "CDK1" , "SYK" , "CRBN" , "DNA_DAMAGE" , "RNMT" , "EZH2" , "AXL" , "ALK" , "IDH1" , "IDH2" ,
               "JAK1" , "JAK2" , "PDCD1" , "Proteasome" , "Protein level" , 
               "SLAMF7" , "SMO receptor" , "SRC" , "ABL1" , "TOP2A" , "Tubulin" , "XPO1" , 
               "DNMT3A" , "PI3K" , "PIK3C2A" , "PIK3C2B" , "PIK3C3" , "PIK3CA" , "PIK3CB" , 
@@ -968,12 +982,16 @@ dr_nodes <- c("BCL2" , "TNFRSF17" , "BCR_ABL" , "FLT4" , "KDR" , "FLT1" ,
 
 
 druggability_network <- readRDS('../results/res_sens/bcr_independent_network.rds')
+
+
 drugg_net_clean <- remove_nodes_and_interactors(graph = druggability_network)
 
+as_data_frame(drugg_net_clean, what = 'vertices')
 # Compute the number of inhibitory paths to apoptosis
 n_paths_apo <- c()
 
 i_v = 1
+
 for(i_v in c(1:length(V(drugg_net_clean)$name))){
 
   vertex <- V(drugg_net_clean)$name[i_v]
@@ -1082,8 +1100,11 @@ write_tsv(score_df, '../results/res_sens/druggability_score/druggability_score.t
 
 ```{r}
 score_df <- readr::read_tsv('../results/res_sens/druggability_score/druggability_score.tsv', show_col_types = FALSE)
+
+score_df %>% count(drug_score > 0)
 DT::datatable(score_df)
 ```
+
 ------------------------------------------------------------------------
 
 > Plot
@@ -1098,7 +1119,8 @@ score_df$gene_name1 = fct_reorder(score_df$gene_name,
 score_df %>% filter(druggable == TRUE) -> top_resu
 score_df %>% filter(druggable == FALSE) -> bottom_resu
 
-bind_rows(bottom_resu, top_resu) -> score_df_ordered
+#bind_rows(bottom_resu, top_resu) -> score_df_ordered
+top_resu -> score_df_ordered
 score_df_ordered <- score_df_ordered %>%
   mutate(label_name = ifelse(druggable == TRUE, as.character(gene_name), ''))
 
@@ -1109,18 +1131,19 @@ ggplot(score_df_ordered, aes(x = gene_name1, y = drug_score,
   ylab('Druggability score in Resistant vs Ctrl') +
   xlab('Gene Name') +
   theme_classic()+
-  scale_color_manual(values = c('grey', 'red3')) +
+  scale_color_manual(values = c('red3')) +
   theme(text = element_text(size = 10),
         axis.text.x = element_blank(),
         axis.ticks.x = element_blank(),
         legend.position = 'bottom', 
         legend.title = element_blank()) +
-  ggrepel::geom_text_repel(max.overlaps = 100) 
+  ggrepel::geom_text_repel(max.overlaps = 100) -> plot_new
 ```
+
 **Figure 6B** Scatterplot of Druggability Score results where drug targets (x-axis) are ranked according to the Druggability Score (y-axis). Targets of FDA-approved drugs are reported in red.
 
-
 ##### Experimental validation of druggability score
+
 ```{r warning = FALSE, fig.align='center', fig.width=3, fig.height=4}
 obs_ic50 <- read_tsv('../results/res_sens/druggability_score/data_validation_druggability.tsv', show_col_types = FALSE)
 obs_ic50 %>% column_to_rownames('gene_name') -> obs_ic50_matrix
@@ -1158,8 +1181,93 @@ ggplot(long_df,
 
 **Figure 5D** Druggability Score validation according to IC50 derived from MTT viability assays in K562 (blue) and K562-R cells (red).
 
+
+New plot
+```{r}
+
+obs_ic50 <- read_tsv('../results/res_sens/druggability_score/data_validation_druggability copy.tsv', show_col_types = FALSE)
+obs_ic50 %>% mutate_at(c('IC50_Sens', 'IC50_Res'), log2) %>% 
+  mutate(IC50_Res = IC50_Res*-1, IC50_Sens = IC50_Sens*-1) -> obs_ic50_drugg
+
+obs_ic50_drugg[is.na(obs_ic50_drugg)] <- 0
+  
+# obs_ic50 %>% column_to_rownames('gene_name') -> obs_ic50_matrix
+# obs_ic50_matrix_log <- -log2(obs_ic50_matrix)
+# obs_ic50_matrix_log[is.na(obs_ic50_matrix_log)] <- 0
+# drugg_score <- obs_ic50_matrix_log %>% rownames_to_column('gene_name') %>%
+#   mutate(observed = IC50_Res - IC50_Sens)
+
+# Combine the two elements
+inner_join(score_df %>%
+             dplyr::select(gene_name, drug_score, drug_score_norm),
+           obs_ic50_drugg, by = 'gene_name') -> resulting_df
+
+
+
+# Transform in long format
+long_df <- resulting_df %>%
+  pivot_longer(cols = c('IC50_Sens', 'IC50_Res'))
+
+long_df <- long_df %>% mutate(class_drugg = ifelse(drug_score < 0, 
+                                             'Negative Druggability Score', 
+                                            'Positive Druggability Score')) 
+
+long_df$class_drugg <- factor(long_df$class_drugg, levels = c(  'Negative Druggability Score', 
+                                                               'Positive Druggability Score'))
+
+# PLOT2: validation of druggability score
+ggplot(long_df,
+       aes(x = label, y = value, 
+           fill = name)) +
+  facet_grid(~class_drugg,scales = 'free_x', space = 'free_x')+
+  geom_bar(stat = 'identity', position = position_dodge(width = 0.9), width = 0.9) +
+  xlab('')+
+  ylab('-log2(IC50)') +
+  theme_classic() +
+  scale_fill_manual(values = c('#CD1C67', '#97BDE4')) +
+  theme(text = element_text(size = 10),
+        axis.text.x = element_text(angle = 90, hjust = 1, vjust = .5),
+        legend.position = 'bottom', 
+        legend.title = element_blank()) #-> barplot_IC50
+
+ggsave('../../graphs/scatterplot_ic50.pdf', barplot_IC50, width = 6, height = 4, dpi = 300, device = 'pdf')
+
+# Fold change
+resulting_df %>% mutate(FC_IC50 = IC50_Res - IC50_Sens) -> resulting_fc_df
+
+resulting_fc_df %>%
+  pivot_longer(cols = c('FC_IC50')) -> long_df
+
+long_df <- long_df %>% mutate(class_drugg = ifelse(drug_score < 0, 
+                                             'Negative Druggability Score', 
+                                            'Positive Druggability Score')) 
+
+long_df$class_drugg <- factor(long_df$class_drugg, levels = c(  'Negative Druggability Score', 
+                                                               'Positive Druggability Score'))
+
+
+ggplot(long_df,
+       aes(x = label, y = value, 
+           fill = name)) +
+  facet_grid(~class_drugg,scales = 'free_x', space = 'free_x')+
+  geom_bar(stat = 'identity', position = position_dodge(width = 0.9), width = 0.9) +
+  xlab('')+
+  ylab('-log2(IC50)') +
+  theme_classic() +
+  geom_hline(yintercept = 0) +
+  scale_fill_manual(values = c('#CD1C67', '#97BDE4')) +
+  theme(text = element_text(size = 10),
+        axis.text.x = element_text(angle = 90, hjust = 1, vjust = .5),
+        legend.position = 'bottom', 
+        legend.title = element_blank()) -> fold_change_plot
+
+ggsave('../../graphs/scatterplot_ic50_fold_change.pdf', fold_change_plot, width = 6, height = 4, dpi = 300, device = 'pdf')
+```
+
+
 # Conclusion {.unnumbered}
-Aggiungere qui la conclusione del paper 
+
+Aggiungere qui la conclusione del paper
 
 # R session info {.unnumbered}
 
